@@ -8,6 +8,6 @@ To achieve this goal, I ran a linear regression model to describe a property's s
 
 ![Alt text](https://github.com/MK38993/Metis-Project-2---Real-Estate-Market/blob/main/best_fit_sqft_price.png "......")
 
-The data show a weak correlation between the two values. However, as square footage increases, the residuals increase rapidly, implying that the price of a property is affected greatly by many other factors as well.
+The data show a weak correlation between the two values. However, as square footage increases, the model's residuals increase rapidly as well, demonstrating that the price of a property is greatly affected by a number of other factors as well.
 
 ![Alt text](https://github.com/MK38993/Metis-Project-2---Real-Estate-Market/blob/main/residuals.png "......")

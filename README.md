@@ -33,7 +33,9 @@ I scraped nearly 9900 datapoints from realtor.com. I selected 10 features to mod
 
 - Google Maps Geocoding API to fill in missing 'neighborhood' and 'borough' fields in listings.
 
-- Pandas for data manipulation.
+- Pandas and NumPy for data manipulation.
+
+- Scikit-Learn for creating and training regression models.
 
 - Matplotlib and Seaborn for visualizing data.
 

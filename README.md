@@ -26,7 +26,9 @@ I scraped 9899 datapoints from [realtor.com](https://realtor.com"......"). I sel
 
 3. Running Linear, Ridge, Lasso, and Elastic Net regressions on usable data, selecting the best model (the Ridge model had the highest r<sup>2</sup> value), and using it to predict housing prices.
 
+### Models
 
+I tested Linear, Lasso, Ridge, and Elastic-Net Regressions, but decided on Linear Regression, since my test set was not overfit - my training and test sets had similar r<sup>2</sup> values.
 
 ## Tools
 - Selenium for scraping 9900 listings.

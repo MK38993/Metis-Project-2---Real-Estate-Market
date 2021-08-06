@@ -2,7 +2,7 @@
 
 #### Matthew Kwee, Aug. 2021
 
-### Abstract
+## Abstract
 
 
 
@@ -11,15 +11,15 @@ For this project, I constructed a Ridge Regression model in order to accurately 
 Using a basic web-crawler, I scraped 9900 listings from [realtor.com](https://realtor.com"......") and trained my model from the data, which I then packaged into a function in order to predict real-estate prices.
 
 
-### Design
+## Design
 This project presents a series of plots that highlight stations with high foot traffic, and those which have recovered from COVID lockdowns the fastest.
 
 
-### Data
+## Data
 I scraped nearly 9900 datapoints from realtor.com. I selected 10 features to model for each datapoint, of which 4 are categorical. Only about 850 datapoints had all 10 features available. Using the Google Maps geocoding API, I was able to fill in missing 'borough' and 'neighborhood' information, which allowed me to 'save' another ~90 datapoints. 
 
 
-### Algorithms
+## Algorithms
 1. Constructing a web-crawler to catalog 9900 links to listings, then scrape those listings.
 
 2. Using the Google Maps geocoding API to fill in datapoints missing 'borough' and 'neighborhood' features, based on listing address.
@@ -28,7 +28,7 @@ I scraped nearly 9900 datapoints from realtor.com. I selected 10 features to mod
 
 
 
-### Tools
+## Tools
 - Selenium for scraping 9900 listings.
 
 - Google Maps Geocoding API to fill in missing 'neighborhood' and 'borough' fields in listings.

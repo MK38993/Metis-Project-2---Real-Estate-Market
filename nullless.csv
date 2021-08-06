@@ -1,0 +1,936 @@
+,sqft,beds,baths,lot_size,year_built,address,property_type,neighborhood,borough,sale_price
+0,1120.0,4.0,1.0,940.0,1920.0,256 E 43rd St,Single Family Home,East Flatbush,Brooklyn,407986.0
+1,2025.0,4.0,2.5,2352.0,1986.0,47 Ilyse Ct,Single Family Home,Great Kills,Staten Island,700000.0
+2,1196.0,3.0,2.5,4200.0,1965.0,370 Tysens Ln,Single Family Home,Oakwood,Staten Island,700000.0
+3,1513.0,3.0,2.5,2886.0,1975.0,486 Castleton Ave,Single Family Home,Randall Manor,Staten Island,550000.0
+4,840.0,2.0,1.5,696.0,1988.0,10 Sea Breeze Ln,Condo,Tottenville,Staten Island,380000.0
+5,2296.0,3.0,2.5,4680.0,1969.0,158 Benedict Ave,Single Family Home,Westerleigh,Staten Island,735000.0
+6,1500.0,2.0,1.0,12196.811200000002,1949.0,181 3rd St,Condo,New Dorp,Staten Island,265000.0
+7,1510.0,2.0,1.5,2220.0,1989.0,119 Milton Ave,Condo,New Dorp Beach,Staten Island,493000.0
+8,1470.0,4.0,2.5,5227.0,1945.0,248-14 Thornhill Ave,Single Family Home,Douglaston,Queens,910000.0
+9,1200.0,3.0,2.0,1840.0,1925.0,412 Applegate Ct,Single Family Home,Gravesend,Brooklyn,800000.0
+10,3000.0,8.0,3.0,2178.0,1901.0,372 Montauk Ave,Multi-Family Home,East New York,Brooklyn,940000.0
+11,1860.0,4.0,4.0,7100.0,1955.0,27 Titus Ave,Single Family Home,New Dorp Beach,Staten Island,740000.0
+12,1184.0,3.0,2.5,2850.0,1970.0,84 Acacia Ave,Single Family Home,Great Kills,Staten Island,605000.0
+13,3885.0,6.0,4.0,9000.0,1975.0,331 Detroit Ave,Single Family Home,Annadale,Staten Island,1265000.0
+14,1472.0,3.0,1.5,2300.0,1976.0,98 Stieg Ave,Single Family Home,Great Kills,Staten Island,570000.0
+15,2548.0,3.0,2.5,4760.0,1970.0,314 Caswell Ave,Single Family Home,Westerleigh,Staten Island,888000.0
+16,2534.0,4.0,4.0,4000.0,1982.0,20 Mercer Pl,Single Family Home,Great Kills,Staten Island,989000.0
+17,1170.0,3.0,2.0,2000.0,1920.0,1215 E 94th St,Single Family Home,Canarsie,Brooklyn,630000.0
+18,1368.0,3.0,2.5,2400.0,2000.0,52 Eagan Ave,Single Family Home,Annadale,Staten Island,650000.0
+19,1150.0,4.0,1.5,2500.0,1925.0,244 Hylan Blvd,Single Family Home,Rosebank,Staten Island,440000.0
+20,2580.0,5.0,2.5,1620.0,1997.0,454 Franklin Ave,Multi-Family Home,Bedford-Stuyvesant,Brooklyn,1597000.0
+21,1729.0,3.0,2.0,3750.0,1935.0,39 Rokeby Pl,Single Family Home,West Brighton,Staten Island,685000.0
+22,2224.0,7.0,3.0,2000.0,1920.0,2021 W 13th St,Multi-Family Home,Gravesend,Brooklyn,1220000.0
+23,2330.0,3.0,2.5,3116.0,1998.0,1568 Woodrow Rd,Single Family Home,Woodrow,Staten Island,720000.0
+24,1672.0,4.0,2.0,5000.0,1910.0,17 Winfield St,Multi-Family Home,South Beach,Staten Island,700000.0
+25,2278.0,3.0,2.5,1890.0,1940.0,46 Corbin Pl,Multi-Family Home,Brighton Beach,Brooklyn,1130000.0
+26,3296.0,5.0,5.0,9100.0,1990.0,206 Darlington Ave,Single Family Home,Huguenot,Staten Island,1150000.0
+27,840.0,2.0,1.0,2850.0,1940.0,41 Sprague Ave,Single Family Home,Tottenville,Staten Island,450000.0
+28,1800.0,3.0,2.0,5000.0,1901.0,136 Arlington Ave,Single Family Home,Mariners Harbor,Staten Island,539000.0
+29,1815.0,8.0,3.0,2500.0,1920.0,68 Scribner Ave,Single Family Home,New Brighton,Staten Island,785000.0
+30,2040.0,1.0,1.5,3132.0,2017.0,816-818 Patterson Ave,Single Family Home,Midland Beach,Staten Island,640000.0
+31,1500.0,3.0,1.5,2700.0,1993.0,210 Kirshon Ave,Single Family Home,Bulls Head,Staten Island,575000.0
+32,3456.0,6.0,2.0,4760.0,1932.0,289 St Pauls Ave,Single Family Home,Stapleton,Staten Island,575000.0
+33,7365.0,8.0,9.5,2043.0,1921.0,50 E 81st St,Multi-Family Home,Upper East Side,Manhattan,7700000.0
+34,960.0,3.0,1.5,1742.0,1930.0,32-43 200 St,Single Family Home,Auburndale,Queens,668000.0
+35,2640.0,4.0,2.5,5227.0,2007.0,151-36 10th Ave,Single Family Home,Whitestone,New York,1600000.0
+36,1998.0,4.0,2.5,1742.0,1960.0,61-53 67th St,Multi-Family Home,Middle Village,New York,870000.0
+37,1500.0,3.0,2.5,4356.0,1925.0,147-30 84th Dr,Single Family Home,Briarwood,Queens,890000.0
+38,2150.0,6.0,3.0,2178.0,1901.0,845 Crotona Park N,Multi-Family Home,Crotona Park East,Bronx,575000.0
+39,1720.0,3.0,2.5,2178.0,1920.0,89-09 91 St,Single Family Home,Woodhaven,New York,650000.0
+40,836.0,2.0,1.0,2178.0,1935.0,48-61 207 St,Single Family Home,Bayside,Queens,660000.0
+41,2288.0,5.0,3.0,4760.0,1960.0,94 Dalton Ave,Single Family Home,New Dorp,Staten Island,850000.0
+42,4680.0,6.0,5.0,9954.0,1996.0,15 Carolyn Ct,Single Family Home,Pleasant Plains,Staten Island,1525000.0
+43,2344.0,5.0,3.0,4400.0,1986.0,951 Bard Ave,Single Family Home,Silver Lake,Staten Island,757000.0
+44,2250.0,4.0,3.5,3207.0,2003.0,39 Wycliff Ln,Single Family Home,Huguenot,Staten Island,760000.0
+45,1152.0,4.0,2.0,3500.0,1930.0,320 Jewett Ave,Single Family Home,Port Richmond,Staten Island,534000.0
+46,1368.0,3.0,2.5,2500.0,1920.0,33 Haughwout Ave,Single Family Home,Port Richmond,Staten Island,605000.0
+47,1080.0,3.0,1.5,2886.0,1977.0,264 Giffords Ln,Single Family Home,Great Kills,Staten Island,550000.0
+48,880.0,3.0,1.5,2650.0,1985.0,458 Clifton Ave,Single Family Home,Rosebank,Staten Island,518000.0
+49,1438.0,3.0,1.5,2614.0,1920.0,78-17 86th St,Single Family Home,Glendale,Queens,805000.0
+50,912.0,3.0,1.0,5246.0,1955.0,349 South Ave,Single Family Home,Mariners Harbor,Staten Island,449000.0
+51,1408.0,3.0,1.5,2500.0,1920.0,549 E 28th St,Single Family Home,Flatbush,Brooklyn,749000.0
+52,1628.0,2.0,2.0,3700.0,1920.0,179 Llewellyn Pl,Single Family Home,Westerleigh,Staten Island,640000.0
+53,1400.0,3.0,1.5,3400.0,1999.0,1295 Arden Ave,Single Family Home,Eltingville,Staten Island,600000.0
+54,928.0,3.0,1.0,1600.0,1940.0,25 Brighton 5th Ln,Single Family Home,Brighton Beach,Brooklyn,455000.0
+55,5712.0,12.0,6.0,2614.0,1931.0,70-42 66th St,Multi-Family Home,Glendale,Queens,1275000.0
+56,1660.0,3.0,2.5,6808.0,1935.0,153 Sampson Ave,Single Family Home,Great Kills,Staten Island,629000.0
+57,1220.0,3.0,2.0,1914.0,1960.0,112 S Railroad Ave,Single Family Home,Dongan Hills,Staten Island,539000.0
+58,1184.0,3.0,1.0,1742.0,1945.0,66-14 Booth St,Single Family Home,Rego Park,Queens,845000.0
+59,1230.0,3.0,1.5,2333.0,1960.0,176 Macfarland Ave,Single Family Home,South Beach,Staten Island,604888.0
+60,1620.0,4.0,2.5,2000.0,1930.0,122 Avenue N,Single Family Home,Midwood,Brooklyn,775000.0
+61,5000.0,3.0,4.5,9300.0,2020.0,101 Manee Ave,Single Family Home,Princes Bay,Staten Island,1500000.0
+62,3260.0,3.0,2.5,14810.413600000002,1935.0,25 Carlton Pl,Single Family Home,Emerson Hill,Staten Island,1400000.0
+63,2256.0,4.0,3.5,4000.0,2020.0,246 Crown Ave,Single Family Home,Annadale,Staten Island,979999.0
+64,1701.0,2.0,1.0,2614.0,1955.0,66-53 Alderton St,Single Family Home,Rego Park,New York,770000.0
+65,1376.0,4.0,2.0,8480.0,1910.0,1598 Richmond Ave,Single Family Home,Bulls Head,Staten Island,715000.0
+66,2160.0,3.0,3.5,2520.0,2001.0,70 Ambassador Ln,Single Family Home,Woodrow,Staten Island,670000.0
+67,1400.0,3.0,2.5,1900.0,1999.0,137 Grimsby St,Single Family Home,Midland Beach,Staten Island,400000.0
+68,1224.0,3.0,2.0,1800.0,1930.0,2045 Ford St,Single Family Home,Sheepshead Bay,Brooklyn,725000.0
+69,1584.0,3.0,1.0,2700.0,1925.0,436 Clove Rd,Single Family Home,West Brighton,Staten Island,500000.0
+70,1900.0,4.0,2.0,1742.0,1899.0,687 Madison St,Multi-Family Home,Bedford-Stuyvesant,Brooklyn,1275000.0
+71,2444.0,3.0,3.0,3900.0,1987.0,988 Rathbun Ave,Single Family Home,Woodrow,Staten Island,895000.0
+72,2700.0,4.0,2.5,4800.0,2001.0,171 Manhattan St,Single Family Home,Tottenville,Staten Island,999900.0
+73,2200.0,4.0,2.5,4085.0,2000.0,3397 Richmond Ave,Single Family Home,Eltingville,Staten Island,920000.0
+74,2441.0,4.0,3.5,4500.0,1970.0,484 Ashworth Ave,Single Family Home,New Springville,Staten Island,804000.0
+75,1396.0,4.0,1.5,3760.0,1920.0,57 Allen Ct,Single Family Home,West Brighton,Staten Island,690000.0
+76,1120.0,2.0,3.0,7200.0,1925.0,31 Frank Ct,Single Family Home,Gerritsen Beach,Brooklyn,850000.0
+77,2408.0,3.0,3.0,4480.0,1920.0,42 Pearsall St,Single Family Home,South Beach,Staten Island,685000.0
+78,2297.0,4.0,1.5,2496.0,1986.0,20 Dina Ct,Single Family Home,Great Kills,Staten Island,710000.0
+79,2196.0,3.0,2.0,4000.0,1901.0,41 Cannon Ave,Single Family Home,Travis - Chelsea,Staten Island,680000.0
+80,1256.0,3.0,2.0,3335.0,1925.0,13 Howard Ct,Single Family Home,West Brighton,Staten Island,443000.0
+81,1492.0,3.0,2.5,2380.0,2005.0,52 Santa Monica Ln,Single Family Home,Woodrow,Staten Island,635000.0
+82,2304.0,4.0,2.0,1950.0,2019.0,25 Milbank Rd,Single Family Home,New Dorp Beach,Staten Island,580000.0
+83,2040.0,4.0,2.0,1892.0,1955.0,1873 Shore Pkwy,Multi-Family Home,Gravesend,Brooklyn,988000.0
+84,2007.0,5.0,3.0,3800.0,1947.0,39 Austin Ave,Single Family Home,South Beach,Staten Island,625000.0
+85,1152.0,3.0,1.5,2600.0,1960.0,2683 E 63rd St,Single Family Home,Mill Basin,Brooklyn,770000.0
+86,1344.0,3.0,2.0,2377.0,1925.0,9105 Colonial Rd,Single Family Home,Bay Ridge,Brooklyn,1365000.0
+87,3063.0,4.0,2.5,6900.0,1925.0,34 Colonial Ct,Single Family Home,West Brighton,Staten Island,1070000.0
+88,1040.0,3.0,1.0,3745.0,1930.0,25 Virginia Pl,Single Family Home,Westerleigh,Staten Island,560000.0
+89,1456.0,3.0,1.5,2200.0,1979.0,447 Dongan Hills Ave,Single Family Home,Ocean Breeze,Staten Island,580000.0
+90,1600.0,3.0,3.5,2500.0,2004.0,71 Waldron Ave,Single Family Home,Sunnyside,Staten Island,690000.0
+91,1028.0,2.0,2.5,1890.0,1913.0,1713 E 93rd St,Single Family Home,Canarsie,Brooklyn,575000.0
+92,1836.0,4.0,2.5,2397.0,1940.0,1951 19th Ln,Multi-Family Home,Bath Beach,Brooklyn,950000.0
+93,1953.0,6.0,4.5,2205.0,2003.0,3530 Bronxwood Ave,Multi-Family Home,Williamsbridge,Bronx,728000.0
+94,2650.0,7.0,5.0,2614.0,1899.0,73 Kingsland Ave,Multi-Family Home,Williamsburg,Brooklyn,1558000.0
+95,1520.0,3.0,2.0,2178.0,1940.0,50-32 64 St,Single Family Home,Maspeth,New York,865000.0
+96,2392.0,4.0,4.5,4792.0,1950.0,159-13 85 St,Single Family Home,Howard Beach,Queens,1270000.0
+97,1200.0,3.0,3.0,3485.0,1925.0,90-10 195th Pl,Single Family Home,Hollis,Queens,685000.0
+98,3000.0,8.0,5.0,4792.0,2006.0,243-04 149th Ave,Multi-Family Home,Rosedale,New York,1175000.0
+99,1554.0,2.0,2.0,1316.0,2000.0,64 Alex Cir,Single Family Home,South Beach,Staten Island,555000.0
+100,3000.0,4.0,3.0,4400.0,1990.0,915 Bard Ave,Single Family Home,Silver Lake,Staten Island,946000.0
+101,7200.0,5.0,4.5,14810.413600000002,2001.0,15 Ocean Ct,Single Family Home,Todt Hill,Staten Island,2200000.0
+102,1192.0,2.0,1.5,1890.0,1989.0,94 Church Ave,Condo,Travis - Chelsea,Staten Island,552000.0
+103,1632.0,3.0,2.5,3432.0,1980.0,263 Grantwood Ave,Single Family Home,Greenridge,Staten Island,670000.0
+104,1472.0,3.0,1.5,2400.0,1975.0,85 Woehrle Ave,Single Family Home,Eltingville,Staten Island,620000.0
+105,1296.0,3.0,1.5,2400.0,1970.0,12 Signs Rd,Single Family Home,Bulls Head,Staten Island,620000.0
+106,1084.0,3.0,1.5,2001.0,1975.0,421 Riedel Ave,Single Family Home,Oakwood,Staten Island,580000.0
+107,2160.0,3.0,2.5,2712.0,1979.0,251 Slater Blvd,Single Family Home,Ocean Breeze,Staten Island,638000.0
+108,936.0,2.0,1.5,806.0,1988.0,12 Kathy Ct,Condo,Eltingville,Staten Island,490000.0
+109,2192.0,3.0,4.0,5000.0,1965.0,96 Durant Ave,Single Family Home,Bay Terrace,Staten Island,985000.0
+110,1500.0,3.0,3.5,2400.0,2018.0,164 Hopkins Ave,Single Family Home,Bay Terrace,Staten Island,700000.0
+111,1410.0,3.0,2.5,2300.0,2002.0,22 Knight Loop,Single Family Home,Great Kills,Staten Island,580000.0
+112,3200.0,3.0,2.5,4500.0,1973.0,37 Escanaba Ave,Single Family Home,Great Kills,Staten Island,839000.0
+113,2080.0,3.0,2.0,3600.0,2017.0,40 Seafoam St,Single Family Home,New Dorp Beach,Staten Island,657000.0
+114,5648.0,10.0,10.0,1839.0,1895.0,306 W 78th St,Multi-Family Home,Upper West Side,Manhattan,5600000.0
+115,2400.0,4.0,2.0,4320.0,1965.0,205 Steinway Ave,Single Family Home,New Springville,Staten Island,750000.0
+116,2771.0,8.0,5.0,2030.0,2001.0,95 Bay 38th St,Multi-Family Home,Gravesend,Brooklyn,1590000.0
+117,560.0,3.0,1.0,2506.0,1920.0,13 Homer St,Single Family Home,Tompkinsville,Staten Island,349013.0
+118,1694.0,3.0,2.5,2080.0,1960.0,2432 Gerritsen Ave,Single Family Home,Gerritsen Beach,Brooklyn,735000.0
+119,1680.0,3.0,1.0,2787.0,1830.0,276 Winthrop St,Single Family Home,Flatbush,Brooklyn,1080000.0
+120,1680.0,6.0,3.0,2614.0,1925.0,55-11 39th Ave,Multi-Family Home,Woodside,New York,940000.0
+121,1152.0,4.0,3.0,4185.0,1940.0,220 Vanderbilt Ave,Single Family Home,Clifton,Staten Island,500000.0
+122,2812.0,4.0,5.0,1520.0,1841.0,73 Gold St,Multi-Family Home,Vinegar Hill,Brooklyn,4050000.0
+123,1540.0,3.0,2.5,2975.0,1985.0,448 Clifton Ave,Single Family Home,Rosebank,Staten Island,645000.0
+124,1584.0,3.0,3.0,3325.0,1925.0,34 Cornell St,Single Family Home,Port Richmond,Staten Island,585000.0
+125,3396.0,4.0,3.5,6949.0,2004.0,22 Dawn Ct,Single Family Home,Tottenville,Staten Island,660000.0
+126,2544.0,3.0,2.0,4000.0,1973.0,16 Rockville Ave,Single Family Home,Bulls Head,Staten Island,899000.0
+127,1480.0,3.0,3.5,2400.0,2001.0,255 Graves St,Single Family Home,Manor Heights,Staten Island,665000.0
+128,2562.0,7.0,2.0,1897.0,1925.0,8125 6th Ave,Multi-Family Home,Bay Ridge,Brooklyn,1455000.0
+129,2062.0,4.0,2.5,3895.0,1978.0,88 Berry Ave,Single Family Home,Eltingville,Staten Island,720000.0
+130,2352.0,4.0,2.5,2000.0,1925.0,6512 17th Ave,Single Family Home,Bensonhurst,Brooklyn,1040000.0
+131,3100.0,3.0,2.5,3750.0,2019.0,522 Clermont Ave,Single Family Home,Tottenville,Staten Island,890000.0
+132,1200.0,3.0,2.5,2000.0,2016.0,84 Livingston Ave,Single Family Home,Manor Heights,Staten Island,640000.0
+133,2504.0,5.0,3.0,4000.0,1965.0,1051 Willowbrook Rd,Single Family Home,Willowbrook,Staten Island,799000.0
+134,1711.0,3.0,2.0,2233.0,1935.0,143 E 89th St,Multi-Family Home,East Flatbush,Brooklyn,650000.0
+135,1008.0,3.0,2.0,4200.0,1965.0,354 Virginia Ave,Single Family Home,Rosebank,Staten Island,535000.0
+136,1816.0,3.0,3.0,1997.0,1930.0,2610 Harway Ave,Multi-Family Home,Gravesend,Brooklyn,947000.0
+137,1971.0,4.0,2.0,3800.0,1974.0,397 Robinson Ave,Single Family Home,Eltingville,Staten Island,710000.0
+138,1056.0,3.0,2.0,4000.0,1955.0,204 Amber St,Single Family Home,Richmond Town,Staten Island,730000.0
+139,1480.0,3.0,2.0,3975.0,1989.0,26 Peggy Ln,Single Family Home,Midland Beach,Staten Island,585000.0
+140,1450.0,3.0,1.5,2442.0,1965.0,465 Beach Rd,Single Family Home,Eltingville,Staten Island,610000.0
+141,2376.0,5.0,3.5,4769.0,2020.0,555 Woodrow Rd,Single Family Home,Arden Heights,Staten Island,975000.0
+142,1280.0,3.0,2.5,2000.0,1920.0,2655 E 27th St,Single Family Home,Sheepshead Bay,Brooklyn,628000.0
+143,1200.0,4.0,2.0,5110.0,1955.0,90 Shirley Ave,Single Family Home,Eltingville,Staten Island,530000.0
+144,1200.0,3.0,1.5,2500.0,1970.0,173 Winham Ave,Single Family Home,New Dorp Beach,Staten Island,625000.0
+145,1400.0,3.0,2.0,3000.0,1932.0,90 Ontario Ave,Single Family Home,Sunnyside,Staten Island,495000.0
+146,1584.0,2.0,3.0,2250.0,1987.0,145 Seaview Ave,Multi-Family Home,Dongan Hills,Staten Island,590000.0
+147,800.0,2.0,1.0,3125.0,1920.0,22 Rosebank Pl,Single Family Home,Rosebank,Staten Island,345000.0
+148,1472.0,3.0,1.0,3049.0,1930.0,10727 219th St,Single Family Home,Queens Village,New York,575000.0
+149,530.0,4.0,2.0,2178.0,1915.0,76-36 85th Dr,Multi-Family Home,Woodhaven,New York,780000.0
+150,2047.0,3.0,2.0,3920.0,1935.0,150-24 20th Rd,Single Family Home,Whitestone,New York,1065000.0
+151,1303.0,3.0,2.0,4792.0,1950.0,22-14 201 St,Single Family Home,Clearview,Queens,850000.0
+152,1188.0,3.0,1.5,1530.0,1983.0,40 Hemlock Ct,Condo,Rossville,Staten Island,450000.0
+153,2500.0,3.0,2.5,3750.0,2006.0,575 Yetman Ave,Single Family Home,Tottenville,Staten Island,995000.0
+154,1648.0,0.0,0.0,1580.0,1996.0,262 Edgewater St,Multi-Family Home,Rosebank,Staten Island,575000.0
+155,2729.0,5.0,1.0,3600.0,1910.0,203 College Ave,Single Family Home,Westerleigh,Staten Island,630000.0
+156,1720.0,3.0,2.5,2450.0,1986.0,724 Olympia Blvd,Single Family Home,Ocean Breeze,Staten Island,680000.0
+157,1676.0,3.0,2.5,2167.0,2013.0,36 Persimmon Ln,Single Family Home,New Springville,Staten Island,699000.0
+158,1728.0,4.0,2.5,2000.0,2012.0,221 Norway Ave,Condo,South Beach,Staten Island,650000.0
+159,3163.0,4.0,4.0,1667.0,1899.0,507 Hicks St,Multi-Family Home,Cobble Hill,Brooklyn,2554000.0
+160,1200.0,3.0,2.0,2000.0,1920.0,1767 Hendrickson St,Single Family Home,Marine Park,Brooklyn,725000.0
+161,2072.0,4.0,3.5,4000.0,1970.0,53 Dewhurst St,Single Family Home,Willowbrook,Staten Island,1150000.0
+162,1433.0,4.0,2.0,4400.0,1950.0,730 Bard Ave,Single Family Home,West Brighton,Staten Island,627000.0
+163,780.0,2.0,2.0,3720.0,1975.0,21 Sweetwater Ave,Single Family Home,Great Kills,Staten Island,390000.0
+164,1552.0,1.0,1.0,25264.8232,1925.0,40 Macfarland Ave,Single Family Home,South Beach,Staten Island,365000.0
+165,1530.0,4.0,2.0,2000.0,1920.0,2311 E 14th St,Single Family Home,Sheepshead Bay,Brooklyn,825000.0
+166,1825.0,4.0,2.0,4888.0,1960.0,260 Combs Ave,Single Family Home,Richmond Town,Staten Island,770000.0
+167,2304.0,6.0,4.0,3528.0,1995.0,16740 146th Ave,Multi-Family Home,Springfield Gardens,Queens,850000.0
+168,1144.0,3.0,2.5,33105.6304,1910.0,266 Guyon Ave,Single Family Home,Oakwood,Staten Island,680000.0
+169,936.0,3.0,1.5,3549.0,1955.0,69 Andros Ave,Single Family Home,Mariners Harbor,Staten Island,425000.0
+170,3395.0,6.0,4.0,7000.0,1899.0,300 Bard Ave,Single Family Home,West Brighton,Staten Island,840000.0
+171,4080.0,4.0,3.5,9120.0,2020.0,116 Bayview Ave,Single Family Home,Prince's Bay,Staten Island,1400000.0
+172,1296.0,3.0,1.5,1800.0,1955.0,1722 E 54th St,Single Family Home,Flatlands,Brooklyn,635000.0
+173,1008.0,3.0,2.0,2958.0,1920.0,1151 63rd St,Single Family Home,Borough Park,Brooklyn,900000.0
+174,960.0,2.0,1.5,1400.0,1993.0,151 Bement Ct,Single Family Home,West Brighton,Staten Island,385000.0
+175,749.0,2.0,1.0,2500.0,1940.0,112 New St,Single Family Home,Port Richmond,Staten Island,315000.0
+176,2080.0,4.0,2.0,2250.0,1915.0,867 Van Duzer St,Multi-Family Home,Stapleton,Staten Island,450000.0
+177,2910.0,3.0,3.0,4883.0,2020.0,88 Chestnut Ave,Single Family Home,Rosebank,Staten Island,942500.0
+178,1280.0,3.0,1.5,2178.0,1935.0,74-05 Kessel St,Single Family Home,Forest Hills,Queens,1100000.0
+179,1878.0,3.0,2.5,2614.0,2005.0,143-35 Farmers Blvd,Single Family Home,Rochdale,Queens,435000.0
+180,1219.0,3.0,2.0,2178.0,1924.0,61-24 62nd St,Single Family Home,Middle Village,New York,750000.0
+181,1197.0,3.0,1.5,2614.0,1910.0,147-15 15 Ave,Single Family Home,Whitestone,New York,750000.0
+182,1120.0,3.0,1.5,2614.0,1920.0,130-04 Lefferts Blvd,Single Family Home,South Ozone Park,New York,605000.0
+183,1800.0,4.0,2.0,2614.0,1926.0,171-24 Courtney Ave,Single Family Home,Flushing,Queens,915000.0
+184,1300.0,4.0,2.5,2178.0,1920.0,89-38 83rd Ave,Single Family Home,Forest Park,New York,698400.0
+185,2444.0,5.0,3.0,4000.0,1974.0,96 Holcomb Ave,Single Family Home,Huguenot,Staten Island,850000.0
+186,2084.0,3.0,2.5,3125.0,2002.0,47 Fox Hill Ter,Single Family Home,Rosebank,Staten Island,799000.0
+187,1500.0,3.0,3.0,2700.0,1980.0,330 Green Valley Rd,Single Family Home,Arden Heights,Staten Island,660000.0
+188,1600.0,3.0,2.5,3750.0,1995.0,14 Wolcott Ave,Single Family Home,Annadale,Staten Island,660000.0
+189,2916.0,3.0,2.5,4200.0,1975.0,15 Elwood Ave,Single Family Home,New Springville,Staten Island,890000.0
+190,2800.0,3.0,2.5,4400.0,1975.0,1 Villanova St,Single Family Home,New Springville,Staten Island,940000.0
+191,2200.0,4.0,3.0,5000.0,1950.0,196 Lindenwood Rd,Single Family Home,Great Kills,Staten Island,788000.0
+192,1600.0,3.0,2.5,2825.0,2000.0,34 Amy Ln,Single Family Home,New Springville,Staten Island,649000.0
+193,2270.0,4.0,3.5,3450.0,2005.0,125 Arbutus Ave,Single Family Home,Huguenot,Staten Island,875000.0
+194,2012.0,5.0,2.0,12632.4116,1915.0,22 Meadow Ave,Single Family Home,Concord,Staten Island,850000.0
+195,1536.0,3.0,1.5,3000.0,1980.0,382 Jefferson Ave,Single Family Home,Midland Beach,Staten Island,580000.0
+196,1583.0,3.0,1.5,3690.0,1925.0,272 Van Pelt Ave,Single Family Home,Mariners Harbor,Staten Island,470000.0
+197,1060.0,3.0,1.5,1373.0,1991.0,34 Houston Ln,Condo,Westerleigh,Staten Island,461000.0
+198,1584.0,2.0,2.5,1600.0,1940.0,2182 E 28th St,Single Family Home,Sheepshead Bay,Brooklyn,770000.0
+199,1660.0,3.0,2.5,2000.0,2004.0,327 Colony Ave,Single Family Home,Midland Beach,Staten Island,599000.0
+200,1200.0,3.0,2.5,2500.0,1965.0,38 Ainsworth Ave,Single Family Home,Great Kills,Staten Island,625000.0
+201,2760.0,5.0,4.5,3000.0,1960.0,2024 E 54th St,Multi-Family Home,Mill Basin,Brooklyn,995000.0
+202,1510.0,3.0,2.5,3264.0,1925.0,22 Josephine St,Single Family Home,Westerleigh,Staten Island,690000.0
+203,1680.0,3.0,2.5,3500.0,2003.0,7 Hank Pl,Single Family Home,Prince's Bay,Staten Island,730000.0
+204,1810.0,3.0,3.5,2614.0,1940.0,140-38 69 Ave,Multi-Family Home,Kew Gardens Hills,Queens,1300000.0
+205,2400.0,3.0,3.0,3920.0,1950.0,70-12 171 St,Single Family Home,Hillcrest,Queens,960000.0
+206,1833.0,4.0,2.5,4356.0,1960.0,216-28 28th Rd,Single Family Home,Bayside,New York,1130000.0
+207,4080.0,0.0,2.0,3414.0,1930.0,1531 E 7th St,Multi-Family Home,Midwood,Brooklyn,2160000.0
+208,2236.0,5.0,2.0,3920.0,1950.0,159-43 98th St,Multi-Family Home,Howard Beach,New York,900000.0
+209,2736.0,4.0,2.5,4485.0,2001.0,454 Main St,Single Family Home,Tottenville,Staten Island,990000.0
+210,1550.0,3.0,2.5,2500.0,1997.0,332 Mason Blvd,Single Family Home,Rossville,Staten Island,675000.0
+211,1316.0,3.0,2.0,2040.0,1920.0,1737 W 2nd St,Single Family Home,Gravesend,Brooklyn,929000.0
+212,1440.0,3.0,1.5,3588.0,1996.0,70 Salamander Ct,Single Family Home,Woodrow,Staten Island,540000.0
+213,2546.0,4.0,2.5,4800.0,1985.0,99 Ramapo Ave,Single Family Home,Woodrow,Staten Island,820000.0
+214,2012.0,3.0,3.5,1868.0,1983.0,8 Green Valley Rd,Single Family Home,Huguenot,Staten Island,660000.0
+215,1950.0,3.0,2.0,2441.0,1925.0,293 Bay 8 St,Multi-Family Home,Bath Beach,Brooklyn,965000.0
+216,1024.0,3.0,1.5,1800.0,1925.0,1452 E 53rd St,Single Family Home,Flatlands,Brooklyn,580000.0
+217,1150.0,2.0,1.5,1350.0,1986.0,299 Lamberts Ln,Condo,Bulls Head,Staten Island,470000.0
+218,1960.0,6.0,3.0,2500.0,1930.0,1458 84th St,Single Family Home,Bensonhurst,Brooklyn,1225000.0
+219,3300.0,10.0,3.5,2000.0,1920.0,680 Onderdonk Ave,Multi-Family Home,Ridgewood,New York,998000.0
+220,1496.0,3.0,1.5,4558.0,1940.0,2058 Brown St,Single Family Home,Sheepshead Bay,Brooklyn,760000.0
+221,1300.0,3.0,3.5,1092.0,2005.0,76 Dartmouth Loop,Condo,New Dorp Beach,Staten Island,675000.0
+222,1950.0,4.0,2.0,1950.0,1955.0,1517 85th St,Multi-Family Home,Bensonhurst,Brooklyn,1115000.0
+223,1296.0,2.0,1.0,1960.0,2002.0,410 Raritan Ave,Single Family Home,Dongan Hills,Staten Island,565000.0
+224,2400.0,5.0,3.0,3175.0,1920.0,2748 E 21st St,Single Family Home,Sheepshead Bay,Brooklyn,875000.0
+225,1336.0,4.0,2.5,4000.0,1970.0,44 E Stroud Ave,Single Family Home,Great Kills,Staten Island,720000.0
+226,3500.0,4.0,3.5,5973.0,2020.0,34 Sycamore St,Single Family Home,Great Kills,Staten Island,1189000.0
+227,1356.0,3.0,1.5,4356.0,1930.0,149-18 10th Ave,Single Family Home,Whitestone,New York,730000.0
+228,1400.0,3.0,1.5,2178.0,1931.0,77-04 87th St,Single Family Home,Glendale,Queens,780000.0
+229,1100.0,3.0,1.0,1742.0,1930.0,198-25 33 Ave,Single Family Home,Auburndale,Queens,678000.0
+230,1520.0,3.0,1.5,3049.0,1960.0,61-40 Bell Blvd,Single Family Home,Bayside,New York,999000.0
+231,1696.0,3.0,3.0,2614.0,1920.0,139-10 Whitelaw St,Multi-Family Home,Ozone Park,New York,830000.0
+232,4560.0,4.0,3.5,10454.4096,1988.0,15 Haywood St,Single Family Home,Tottenville,Staten Island,1315000.0
+233,2700.0,5.0,3.5,4085.0,1997.0,27 Savo Loop,Single Family Home,Pleasant Plains,Staten Island,865000.0
+234,1176.0,3.0,1.5,2400.0,1997.0,157 Oakdale St,Single Family Home,Great Kills,Staten Island,649000.0
+235,2594.0,4.0,2.0,3510.0,1899.0,481 Clove Rd,Single Family Home,West Brighton,Staten Island,650000.0
+236,1504.0,3.0,2.5,1938.0,1986.0,245 Corona Ave,Single Family Home,Great Kills,Staten Island,582999.0
+237,728.0,2.0,2.5,4000.0,1955.0,112 Lindbergh Ave,Single Family Home,New Dorp,Staten Island,600000.0
+238,1176.0,3.0,1.5,2415.0,1970.0,92 Bay Ter,Single Family Home,Bay Terrace,Staten Island,496000.0
+239,4600.0,6.0,4.0,9800.0,2001.0,300 Koch Blvd,Single Family Home,Annadale,Staten Island,1575000.0
+240,1904.0,3.0,1.5,2860.0,1986.0,420 N Railroad Ave,Single Family Home,Dongan Hills,Staten Island,573000.0
+241,1800.0,4.0,4.0,2500.0,1930.0,2606 Voorhies Ave,Single Family Home,Sheepshead Bay,Brooklyn,1100000.0
+242,1631.0,3.0,3.0,2132.0,1945.0,245 Bay 20 St,Multi-Family Home,Bath Beach,Brooklyn,960000.0
+243,1912.0,4.0,2.5,2500.0,1989.0,45 Marne Ave,Single Family Home,Eltingville,Staten Island,630000.0
+244,912.0,5.0,3.0,3600.0,1920.0,67 Beacon Ct,Single Family Home,Gerritsen Beach,Brooklyn,740000.0
+245,1355.0,3.0,2.0,1800.0,1920.0,1114 78th St,Single Family Home,Dyker Heights,Brooklyn,1041500.0
+246,1350.0,3.0,1.5,1170.0,1996.0,35 Eden Ct,Condo,Tottenville,Staten Island,470000.0
+247,1785.0,3.0,3.0,1750.0,1930.0,1960 E 29th St,Single Family Home,Sheepshead Bay,Brooklyn,823000.0
+248,1472.0,4.0,2.0,7315.0,1899.0,21 Knesel St,Single Family Home,Rossville,Staten Island,405000.0
+249,3027.0,7.0,4.0,2500.0,1924.0,1858 Bay Ridge Ave,Multi-Family Home,Bensonhurst,Brooklyn,1450000.0
+250,1000.0,4.0,3.0,3818.0,1989.0,27 White Plains Ave,Single Family Home,Rosebank,Staten Island,730000.0
+251,1408.0,3.0,1.5,1742.0,1960.0,25-30 College Point Blvd,Condo,College Point,Queens,660000.0
+252,1560.0,4.0,1.5,3049.0,1930.0,93-19 215th Pl,Single Family Home,Queens Village,New York,565000.0
+253,1152.0,3.0,1.5,2178.0,1920.0,89-50 202nd St,Single Family Home,Hollis,New York,650000.0
+254,1995.0,4.0,3.5,3485.0,1930.0,161-22 28 Ave,Single Family Home,Flushing,New York,1230000.0
+255,1344.0,3.0,1.0,3600.0,1915.0,130 Kingsley Ave,Single Family Home,Westerleigh,Staten Island,450000.0
+256,2024.0,4.0,2.5,5000.0,1950.0,21 David St,Single Family Home,Great Kills,Staten Island,870000.0
+257,1080.0,3.0,2.0,4000.0,1970.0,27 Macon Ave,Single Family Home,Eltingville,Staten Island,626500.0
+258,896.0,4.0,2.0,2542.0,1920.0,9 Sunnymeade Vlg,Single Family Home,South Beach,Staten Island,399900.0
+259,1282.0,4.0,2.5,1785.0,2010.0,37 Bevy Ct,Multi-Family Home,Gerritsen Beach,Brooklyn,715000.0
+260,2365.0,2.0,3.5,1860.0,2006.0,84 Topside Ln,Single Family Home,Charleston,Staten Island,745000.0
+261,2352.0,4.0,1.5,10018.809200000002,1975.0,312 Detroit Ave,Single Family Home,Annadale,Staten Island,975000.0
+262,1409.0,3.0,2.5,2146.0,1998.0,264 Rhine Ave,Single Family Home,Concord,Staten Island,620000.0
+263,2200.0,4.0,2.5,3957.0,1997.0,38 Nicole Loop,Single Family Home,Emerson Hill,Staten Island,938000.0
+264,1125.0,3.0,1.0,4560.0,1960.0,114 Peter Ave,Single Family Home,Oakwood,Staten Island,630000.0
+265,2012.0,3.0,2.5,4200.0,1965.0,227 Abingdon Ave,Single Family Home,Great Kills,Staten Island,720712.0
+266,1432.0,3.0,2.5,2000.0,1920.0,1749 E 32nd St,Single Family Home,Marine Park,Brooklyn,755000.0
+267,1856.0,3.0,2.5,2400.0,1980.0,184 Braisted Ave,Single Family Home,New Springville,Staten Island,690000.0
+268,1036.0,3.0,2.0,1670.0,1940.0,3401 Avenue P,Single Family Home,Marine Park,Brooklyn,700000.0
+269,1328.0,3.0,1.5,4000.0,1925.0,46 Carlin St,Single Family Home,Charleston,Staten Island,565000.0
+270,1152.0,2.0,2.0,2900.0,1920.0,1165 63rd St,Single Family Home,Borough Park,Brooklyn,1089900.0
+271,4140.0,7.0,4.0,2000.0,1894.0,242 Decatur St,Multi-Family Home,Bedford-Stuyvesant,Brooklyn,2900000.0
+272,1184.0,3.0,1.5,1573.0,1935.0,3710 Avenue R,Single Family Home,Marine Park,Brooklyn,650000.0
+273,973.0,2.0,2.5,870.0,1995.0,77 Wildwood Ln,Condo,Tottenville,Staten Island,400000.0
+274,1200.0,3.0,2.5,2760.0,1992.0,20 Cambridge Ave,Single Family Home,Westerleigh,Staten Island,648000.0
+275,1135.0,2.0,1.0,2800.0,1925.0,41 Beekman St,Single Family Home,Port Richmond,Staten Island,450000.0
+276,1092.0,3.0,1.5,6300.0,1960.0,374 Watchogue Rd,Single Family Home,Westerleigh,Staten Island,575000.0
+277,1364.0,3.0,2.5,3082.0,2021.0,118 Hope Ave,Condo,Rosebank,Staten Island,665000.0
+278,1378.0,3.0,1.5,2178.0,1920.0,583 E 51st St,Single Family Home,East Flatbush,Brooklyn,610000.0
+279,2580.0,5.0,3.0,4792.0,1960.0,169-56 24th Rd,Single Family Home,Clearview,Queens,1407000.0
+280,1733.0,5.0,2.5,3920.0,1950.0,36-49 204th St,Multi-Family Home,Auburndale,Queens,1297000.0
+281,3390.0,7.0,5.0,10018.809200000002,1965.0,1800 E 91st St,Multi-Family Home,Canarsie,Brooklyn,995000.0
+282,3372.0,7.0,3.0,1742.0,1905.0,60-66 68th Rd,Multi-Family Home,Ridgewood,New York,1230000.0
+283,3396.0,13.0,4.0,2452.0,1920.0,2854 W 17 St SW,Multi-Family Home,Coney Island,Brooklyn,999999.0
+284,1750.0,3.0,3.5,1395.0,2005.0,23 Junction Ct,Condo,Bay Terrace,Staten Island,595000.0
+285,1156.0,3.0,3.0,6600.0,1950.0,84 Oceanview Pl,Single Family Home,Great Kills,Staten Island,742500.0
+286,2250.0,5.0,4.0,2500.0,1955.0,1310 62nd St,Single Family Home,Borough Park,Brooklyn,870000.0
+287,1472.0,2.0,2.0,4000.0,1930.0,169 Hickory Ave,Single Family Home,South Beach,Staten Island,455000.0
+288,2495.0,6.0,5.0,5480.0,2006.0,127 Barry St,Single Family Home,Rossville,Staten Island,818500.0
+289,1452.0,3.0,1.5,900.0,1988.0,230 Timber Ridge Dr,Condo,Bay Terrace,Staten Island,395000.0
+290,1260.0,3.0,2.5,1920.0,1987.0,49 Oceanic Ave,Single Family Home,Eltingville,Staten Island,560000.0
+291,1188.0,3.0,2.0,4975.0,1950.0,2316 E 64th St,Single Family Home,Mill Basin,Brooklyn,825000.0
+292,2000.0,6.0,3.0,3060.0,1910.0,253 Clarkson Ave,Multi-Family Home,Flatbush,Brooklyn,950000.0
+293,1400.0,3.0,2.5,2668.0,2000.0,47 Anjali Loop,Single Family Home,New Springville,Staten Island,670000.0
+294,1900.0,3.0,4.0,2200.0,2003.0,82 Finley Ave,Single Family Home,New Dorp Beach,Staten Island,660000.0
+295,1912.0,3.0,2.0,6000.0,1950.0,36 Seneca Ave,Single Family Home,Sunnyside,Staten Island,560000.0
+296,1813.0,3.0,2.0,2233.0,1930.0,2445 E 19th St,Multi-Family Home,Sheepshead Bay,Brooklyn,865000.0
+297,1500.0,2.0,1.5,1520.0,1987.0,21 Venus Ln,Condo,New Springville,Staten Island,504888.0
+298,1152.0,3.0,1.5,2500.0,1960.0,79 Lamport Blvd,Single Family Home,South Beach,Staten Island,535000.0
+299,1488.0,3.0,2.0,7000.0,1915.0,256 Elm St,Single Family Home,West Brighton,Staten Island,499999.0
+300,672.0,2.0,1.5,5600.0,1950.0,41 Buel Ave,Single Family Home,Dongan Hills,Staten Island,499999.0
+301,2080.0,3.0,2.0,6500.0,1952.0,284 London Rd,Single Family Home,Lighthouse Hill,Staten Island,685000.0
+302,2142.0,3.0,2.0,4521.0,2008.0,32 Mersereau Ave,Single Family Home,Mariners Harbor,Staten Island,700000.0
+303,1273.0,3.0,2.0,1424.0,1945.0,3501 Avenue R,Single Family Home,Marine Park,Brooklyn,780000.0
+304,1064.0,3.0,1.5,1800.0,1925.0,1715 E 36th St,Single Family Home,Marine Park,Brooklyn,630000.0
+305,1490.0,3.0,2.5,3125.0,1985.0,446 Clifton Ave,Single Family Home,Rosebank,Staten Island,580000.0
+306,1991.0,4.0,2.5,4000.0,1970.0,19 Trent St,Single Family Home,Great Kills,Staten Island,670000.0
+307,2220.0,5.0,4.5,5000.0,2003.0,621 Rockaway St,Single Family Home,Tottenville,Staten Island,1260000.0
+308,2808.0,4.0,2.5,3150.0,1986.0,27 Blythe Pl,Single Family Home,Great Kills,Staten Island,510000.0
+309,2280.0,7.0,4.0,2614.0,1930.0,570 Chester St,Multi-Family Home,Brownsville,Brooklyn,948000.0
+310,1650.0,4.0,2.0,3920.0,1950.0,166-08 21 Rd,Single Family Home,Clearview,Queens,800000.0
+311,1794.0,3.0,3.0,2700.0,1910.0,186 Hatfield Pl,Single Family Home,Port Richmond,Staten Island,470000.0
+312,2044.0,4.0,4.0,3100.0,1980.0,142 Alexander Ave,Single Family Home,Eltingville,Staten Island,675000.0
+313,1370.0,4.0,2.5,2317.0,1997.0,26 Bentley Ln,Single Family Home,Tottenville,Staten Island,649000.0
+314,1492.0,4.0,3.5,2656.0,2005.0,20 Santa Monica Ln,Single Family Home,Woodrow,Staten Island,752000.0
+315,1778.0,3.0,2.5,2550.0,1999.0,62 Seguine Loop,Single Family Home,Prince's Bay,Staten Island,715000.0
+316,2564.0,3.0,3.0,4770.0,1970.0,19 Thurston St,Single Family Home,Westerleigh,Staten Island,910000.0
+317,2072.0,3.0,3.0,4096.0,1982.0,62 Lewiston St,Single Family Home,New Springville,Staten Island,805000.0
+318,850.0,3.0,1.0,1880.0,1935.0,940 Olympia Blvd,Single Family Home,Midland Beach,Staten Island,363000.0
+319,1956.0,3.0,2.5,1759.0,1930.0,223 Dahlgren Pl,Single Family Home,Dyker Heights,Brooklyn,830000.0
+320,2100.0,5.0,3.0,2500.0,1930.0,2222 E 24th St,Multi-Family Home,Sheepshead Bay,Brooklyn,1285000.0
+321,1984.0,4.0,2.5,5000.0,1970.0,64 Uxbridge St,Single Family Home,Willowbrook,Staten Island,703000.0
+322,1500.0,3.0,5.0,2300.0,2006.0,2445 E 69th St,Single Family Home,Bergen Beach,Brooklyn,735000.0
+323,1480.0,3.0,2.5,2305.0,1986.0,112 Arrowood Ct,Condo,Rossville,Staten Island,432000.0
+324,1300.0,3.0,1.5,2000.0,1925.0,1358 E 65th St,Single Family Home,Bergen Beach,Brooklyn,652000.0
+325,750.0,1.0,1.0,2200.0,1925.0,810 Church Rd,Single Family Home,Broad Channel,New York,281000.0
+326,2500.0,5.0,3.0,2000.0,1970.0,1933 Stillwell Ave,Multi-Family Home,Gravesend,Brooklyn,1350000.0
+327,1890.0,3.0,2.5,1584.0,1977.0,246 Grasmere Dr,Single Family Home,Grasmere,Staten Island,558000.0
+328,1188.0,3.0,1.0,1742.0,1950.0,166-64 22 Ave,Single Family Home,Clearview,Queens,725000.0
+329,1328.0,4.0,2.5,2614.0,1920.0,99-06 158th Ave,Single Family Home,Howard Beach,New York,680000.0
+330,3511.0,5.0,4.5,5108.0,2015.0,15 Starr Ave,Single Family Home,West Brighton,Staten Island,1050000.0
+331,2700.0,4.0,2.5,5480.0,1970.0,39 Fern Ave,Single Family Home,Great Kills,Staten Island,880000.0
+332,2256.0,3.0,2.5,3800.0,1980.0,27 Sharon Ln,Single Family Home,Woodrow,Staten Island,885000.0
+333,2327.0,3.0,2.5,4326.0,1970.0,157 Paulding Ave,Single Family Home,Bulls Head,Staten Island,830000.0
+334,1925.0,3.0,3.5,5500.0,1970.0,124 9th St,Single Family Home,New Dorp,Staten Island,862000.0
+335,1304.0,3.0,1.5,1360.0,1965.0,135 Roman Ave,Single Family Home,Bulls Head,Staten Island,635000.0
+336,1176.0,3.0,1.5,2400.0,1997.0,163 Oakdale St,Single Family Home,Great Kills,Staten Island,630000.0
+337,1440.0,3.0,2.0,2400.0,1997.0,22 Winston St,Single Family Home,Eltingville,Staten Island,579988.0
+338,1632.0,4.0,2.5,2000.0,1920.0,1506 Albany Ave,Single Family Home,East Flatbush,Brooklyn,720000.0
+339,1200.0,3.0,2.0,7020.0,1955.0,4176 Richmond Ave,Single Family Home,Eltingville,Staten Island,600000.0
+340,952.0,3.0,1.0,1300.0,1920.0,4 Chestnut St,Single Family Home,Stapleton,Staten Island,364000.0
+341,1440.0,3.0,1.5,2100.0,1984.0,55 Ironwood St,Single Family Home,Great Kills,Staten Island,540000.0
+342,1404.0,4.0,3.0,4650.0,1965.0,96 Linwood Ave,Single Family Home,South Beach,Staten Island,740000.0
+343,1938.0,5.0,3.0,1783.0,1940.0,1408 Troy Ave,Multi-Family Home,East Flatbush,Brooklyn,775000.0
+344,1216.0,3.0,2.0,2000.0,1940.0,132-29 83rd St,Single Family Home,Ozone Park,New York,630000.0
+345,1984.0,4.0,2.5,4050.0,1982.0,353 Great Kills Rd,Single Family Home,Great Kills,Staten Island,760000.0
+346,1144.0,3.0,2.0,40075.236800000006,1960.0,14 McLaughlin St,Single Family Home,South Beach,Staten Island,650000.0
+347,780.0,3.0,1.0,2000.0,1925.0,192 Kiswick St,Single Family Home,Midland Beach,Staten Island,350000.0
+348,1800.0,3.0,2.0,3600.0,1987.0,2966 Gerritsen Ave,Multi-Family Home,Gerritsen Beach,Brooklyn,720000.0
+349,1452.0,2.0,1.0,5300.0,1945.0,91 Tuckahoe Ave,Single Family Home,Huguenot,Staten Island,525000.0
+350,864.0,3.0,2.0,4000.0,1950.0,144 Jefferson Ave,Single Family Home,Grant City,Staten Island,550000.0
+351,1350.0,3.0,2.5,1848.0,1997.0,21 Bentley Ln,Single Family Home,Tottenville,Staten Island,610000.0
+352,1645.0,3.0,2.5,1500.0,2020.0,75 Rome Ave,Single Family Home,Concord,Staten Island,625000.0
+353,1600.0,4.0,2.0,2000.0,1925.0,944 E 28th St,Single Family Home,Midwood,Brooklyn,775000.0
+354,1380.0,3.0,1.5,2300.0,1965.0,122 Maybury Ave,Single Family Home,Great Kills,Staten Island,595000.0
+355,1360.0,3.0,2.0,2808.0,1985.0,434 Clifton Ave,Single Family Home,Rosebank,Staten Island,485000.0
+356,1153.0,3.0,2.0,3920.0,1950.0,136-13 243rd St,Single Family Home,Rosedale,New York,600000.0
+357,2244.0,5.0,3.5,3920.0,2009.0,147-24 21st Ave,Multi-Family Home,Whitestone,New York,1370000.0
+358,1428.0,3.0,2.5,2614.0,1920.0,61-51 56th Dr,Multi-Family Home,Maspeth,New York,915000.0
+359,1552.0,3.0,2.0,3049.0,1920.0,219-28 138th Rd,Single Family Home,Laurelton,Queens,580000.0
+360,1435.0,3.0,1.5,2880.0,2017.0,23 Neutral Ave,Single Family Home,New Dorp Beach,Staten Island,560000.0
+361,2390.0,3.0,1.5,2475.0,1985.0,658 Travis Ave,Single Family Home,New Springville,Staten Island,768000.0
+362,1600.0,3.0,2.5,2509.0,1997.0,296 Candon Ave,Single Family Home,Rossville,Staten Island,665000.0
+363,1292.0,3.0,4.5,1620.0,1986.0,51 Locust Ct,Single Family Home,Rossville,Staten Island,505000.0
+364,1800.0,3.0,3.5,2516.0,1990.0,1212 S Railroad Ave,Single Family Home,Grant City,Staten Island,660000.0
+365,1400.0,3.0,1.5,1230.0,1993.0,21 Deborah Loop,Condo,Annadale,Staten Island,490000.0
+366,1940.0,3.0,2.5,2800.0,1995.0,44 Notus Ave,Condo,Eltingville,Staten Island,620000.0
+367,2839.0,4.0,4.0,2298.0,1984.0,24 Cottonwood Ct,Single Family Home,Great Kills,Staten Island,680000.0
+368,1440.0,3.0,1.5,2400.0,1930.0,1831 E 38th St,Single Family Home,Marine Park,Brooklyn,785000.0
+369,1600.0,3.0,1.5,3741.0,1980.0,908 Stafford Ave,Single Family Home,Woodrow,Staten Island,760000.0
+370,1524.0,3.0,2.0,1600.0,1935.0,2616 Avenue V,Single Family Home,Sheepshead Bay,Brooklyn,782000.0
+371,1500.0,3.0,2.0,1242.0,1991.0,222 Norway Ave,Condo,South Beach,Staten Island,635000.0
+372,2230.0,4.0,2.0,3870.0,1970.0,264 Getz Ave,Single Family Home,Eltingville,Staten Island,690000.0
+373,1383.0,2.0,2.0,1050.0,1992.0,24 Crown Ct,Condo,Annadale,Staten Island,470000.0
+374,840.0,1.0,1.0,4000.0,1925.0,9-11 Hempstead Ave,Single Family Home,Midland Beach,Staten Island,455000.0
+375,1610.0,3.0,1.5,3500.0,1929.0,1007 Forest Ave,Single Family Home,West Brighton,Staten Island,552000.0
+376,1683.0,3.0,2.0,1742.0,1955.0,150-45 77th Ave,Single Family Home,Kew Gardens Hills,Queens,795000.0
+377,1626.0,2.0,1.5,640.0,1990.0,2008 Arthur Kill Rd,Condo,Huguenot,Staten Island,360000.0
+378,1400.0,3.0,1.0,5000.0,1915.0,88 Locust Ave,Single Family Home,New Dorp,Staten Island,610000.0
+379,1888.0,4.0,4.0,5035.0,1957.0,399 Beach Rd,Single Family Home,Eltingville,Staten Island,840000.0
+380,3129.0,5.0,2.0,80150.47360000001,1925.0,175 Nixon Ave,Single Family Home,Tompkinsville,Staten Island,970000.0
+381,2112.0,3.0,3.5,3500.0,1989.0,59 Speedwell Ave,Single Family Home,Bulls Head,Staten Island,720000.0
+382,2279.0,3.0,3.0,3800.0,2020.0,404 Ashland Ave,Single Family Home,Prince's Bay,Staten Island,975000.0
+383,1750.0,3.0,3.5,2400.0,1998.0,12 Seth Loop,Single Family Home,Rosebank,Staten Island,688000.0
+384,2812.0,6.0,3.0,2000.0,1965.0,2510 W 2nd St,Multi-Family Home,Gravesend,Brooklyn,1265000.0
+385,4554.0,4.0,3.5,10454.4096,1986.0,726 Correll Ave,Single Family Home,Rossville,Staten Island,1200000.0
+386,3120.0,6.0,5.0,2000.0,1910.0,1135 74th St,Multi-Family Home,Dyker Heights,Brooklyn,1430000.0
+387,1728.0,3.0,3.5,3437.0,2007.0,252 Maryland Ave,Single Family Home,Rosebank,Staten Island,750000.0
+388,2288.0,3.0,3.5,7224.0,1975.0,953 Willowbrook Rd,Single Family Home,Willowbrook,Staten Island,1045000.0
+389,1408.0,3.0,2.0,2277.0,1978.0,245 Colon Ave,Single Family Home,Great Kills,Staten Island,593000.0
+390,2250.0,4.0,3.5,4750.0,1945.0,80 7th St,Single Family Home,New Dorp,Staten Island,980000.0
+391,1624.0,3.0,1.5,2100.0,1960.0,2665 Mill Ave,Single Family Home,Mill Basin,Brooklyn,615000.0
+392,1280.0,3.0,2.0,2875.0,1984.0,2713 W 36th St,Single Family Home,Coney Island,Brooklyn,550000.0
+393,1576.0,3.0,2.5,4900.0,1925.0,2113 Victory Blvd,Single Family Home,Westerleigh,Staten Island,600000.0
+394,2392.0,5.0,3.0,4800.0,1970.0,419 Richmond Hill Rd,Single Family Home,New Springville,Staten Island,775000.0
+395,1008.0,3.0,1.0,2500.0,1915.0,51 Lexington Ave,Single Family Home,Port Richmond,Staten Island,530000.0
+396,1760.0,5.0,2.0,4757.0,1930.0,185 Escanaba Ave,Single Family Home,Great Kills,Staten Island,785000.0
+397,840.0,1.0,1.5,840.0,1978.0,1810 Forest Hill Rd,Condo,New Springville,Staten Island,328.0
+398,1525.0,3.0,1.5,572.0,1978.0,521 Willow Rd E,Single Family Home,Westerleigh,Staten Island,450000.0
+399,1936.0,2.0,2.0,968.0,1998.0,52 Jennifer Pl,Single Family Home,Bulls Head,Staten Island,459000.0
+400,1292.0,3.0,2.0,2230.0,1990.0,21 Crittenden Pl,Single Family Home,Port Richmond,Staten Island,470000.0
+401,1344.0,4.0,2.5,1975.0,1925.0,917 E 31st St,Single Family Home,Flatlands,Brooklyn,760000.0
+402,1600.0,3.0,2.0,2300.0,1925.0,1782 Schenectady Ave,Single Family Home,Flatlands,Brooklyn,709000.0
+403,2440.0,6.0,4.0,2667.0,1920.0,1223 78th St,Multi-Family Home,Dyker Heights,Brooklyn,1550000.0
+404,1638.0,3.0,2.0,2200.0,1935.0,1454 83rd St,Multi-Family Home,Bensonhurst,Brooklyn,980000.0
+405,1720.0,3.0,2.5,1740.0,2019.0,928 Richmond Rd,Condo,Concord,Staten Island,642500.0
+406,2785.0,6.0,2.5,4356.0,1920.0,8041 90th Rd,Multi-Family Home,Woodhaven,New York,675000.0
+407,1207.0,3.0,2.5,2178.0,1920.0,73-46 71st Pl,Single Family Home,Glendale,Queens,685000.0
+408,1225.0,3.0,4.5,2095.0,2020.0,551 Hunter Ave,Single Family Home,Midland Beach,Staten Island,535000.0
+409,675.0,2.0,1.0,4059.0,1925.0,14 Presley St,Single Family Home,Great Kills,Staten Island,360000.0
+410,2900.0,5.0,4.5,4000.0,2016.0,251 Detroit Ave,Single Family Home,Annadale,Staten Island,1100000.0
+411,3250.0,3.0,3.0,16552.8152,1960.0,90 Sunrise Ter,Single Family Home,Grymes Hill,Staten Island,1150000.0
+412,1858.0,3.0,3.5,4545.0,1901.0,355 Craig Ave,Single Family Home,Tottenville,Staten Island,735000.0
+413,1650.0,3.0,3.0,2600.0,1932.0,468 Jewett Ave,Single Family Home,Westerleigh,Staten Island,550000.0
+414,2184.0,4.0,3.5,4324.0,2014.0,158 Muller Ave,Single Family Home,Westerleigh,Staten Island,1125000.0
+415,1326.0,2.0,1.5,3139.0,1910.0,14 Cottage Pl,Single Family Home,Port Richmond,Staten Island,550000.0
+416,2047.0,3.0,3.0,2000.0,1940.0,2205 E 26th St,Single Family Home,Sheepshead Bay,Brooklyn,905000.0
+417,1787.0,5.0,3.0,6600.0,1960.0,68 Gansevoort Blvd,Single Family Home,Westerleigh,Staten Island,885000.0
+418,2160.0,3.0,1.5,1728.0,1997.0,44 Galvaston Loop,Condo,New Springville,Staten Island,710000.0
+419,2584.0,3.0,2.5,6800.0,1960.0,312 Tysens Ln,Single Family Home,Oakwood,Staten Island,855000.0
+420,1188.0,3.0,2.5,2114.0,1940.0,8915 16th Ave,Single Family Home,Bath Beach,Brooklyn,910000.0
+421,1800.0,3.0,2.5,2200.0,1986.0,28 Bosworth St,Single Family Home,West Brighton,Staten Island,623000.0
+422,1092.0,3.0,2.0,6000.0,1950.0,230 Bryson Ave,Single Family Home,Westerleigh,Staten Island,680000.0
+423,1400.0,4.0,1.5,4000.0,1963.0,100 Delaware St,Single Family Home,Dongan Hills,Staten Island,747500.0
+424,2080.0,3.0,1.5,4254.0,1940.0,47 Thomas St,Single Family Home,Oakwood,Staten Island,837000.0
+425,1536.0,3.0,2.5,2400.0,1975.0,42 Rowan Ave,Single Family Home,Midland Beach,Staten Island,570000.0
+426,984.0,3.0,2.5,1023.0,1992.0,49 Greenfield Ct,Single Family Home,Clifton,Staten Island,484000.0
+427,2736.0,8.0,3.0,1900.0,1920.0,242 Covert St,Multi-Family Home,Bushwick,Brooklyn,940000.0
+428,1944.0,4.0,2.5,4100.0,1969.0,175 Cedar Ave,Single Family Home,South Beach,Staten Island,466000.0
+429,2000.0,3.0,1.5,1840.0,1972.0,36 Chestnut Cir,Condo,Arden Heights,Staten Island,500000.0
+430,1672.0,3.0,2.5,1992.0,1965.0,2637 E 63rd St,Single Family Home,Mill Basin,Brooklyn,825000.0
+431,1782.0,3.0,2.5,1800.0,1940.0,60-45 69 Pl,Single Family Home,Maspeth,New York,815000.0
+432,1500.0,3.0,1.0,2500.0,2003.0,509 Gansevoort Blvd,Single Family Home,Manor Heights,Staten Island,660000.0
+433,1546.0,2.0,1.0,2000.0,1955.0,21-09 73rd St,Single Family Home,Astoria,New York,915000.0
+434,1274.0,3.0,1.5,1750.0,1925.0,1073 E 26th St,Single Family Home,Midwood,Brooklyn,500000.0
+435,1600.0,5.0,2.0,1376.0,1930.0,1424 76th St,Multi-Family Home,Bensonhurst,Brooklyn,835000.0
+436,1616.0,4.0,1.5,2614.0,1926.0,68-46 Manse St,Single Family Home,Forest Hills,Queens,840000.0
+437,1637.0,4.0,3.0,4792.0,1955.0,246-19 54th Ave,Single Family Home,Douglaston,Queens,930000.0
+438,1112.0,4.0,3.0,2614.0,1930.0,117-48 140th St,Single Family Home,South Jamaica,Queens,615000.0
+439,2491.0,3.0,2.5,4657.0,2013.0,24 Persimmon Ln,Single Family Home,New Springville,Staten Island,770000.0
+440,2400.0,4.0,3.5,3800.0,2001.0,1064 Sinclair Ave,Single Family Home,Woodrow,Staten Island,909000.0
+441,1880.0,4.0,2.0,2800.0,1975.0,89 E Macon Ave,Single Family Home,Eltingville,Staten Island,642000.0
+442,2214.0,3.0,1.5,4400.0,1970.0,39 Pilcher St,Single Family Home,Willowbrook,Staten Island,840000.0
+443,1576.0,3.0,2.5,3049.0,1930.0,10440 200th St,Single Family Home,Hollis,New York,618000.0
+444,1925.0,4.0,2.0,3600.0,1965.0,85 Lyndale Ave,Single Family Home,Eltingville,Staten Island,690000.0
+445,2301.0,4.0,2.5,2500.0,1999.0,73 Seguine Loop,Single Family Home,Prince's Bay,Staten Island,638000.0
+446,944.0,2.0,2.0,2610.0,1991.0,38 Stone Crest Ct,Single Family Home,Great Kills,Staten Island,425000.0
+447,1600.0,3.0,2.5,2565.0,2002.0,1065 Sheldon Ave,Single Family Home,Woodrow,Staten Island,683300.0
+448,1740.0,3.0,1.5,2295.0,1978.0,344 Bartlett Ave,Single Family Home,Eltingville,Staten Island,650000.0
+449,1040.0,2.0,1.5,2300.0,1990.0,223 Roma Ave,Condo,Oakwood,Staten Island,435000.0
+450,3168.0,6.0,3.0,2552.0,1945.0,8805 26th Ave,Multi-Family Home,Gravesend,Brooklyn,1230000.0
+451,1258.0,3.0,2.5,2100.0,2020.0,204 Cuba Ave,Single Family Home,Oakwood,Staten Island,648000.0
+452,4550.0,4.0,3.5,11325.6104,1984.0,1336 Woodrow Rd,Single Family Home,Woodrow,Staten Island,970000.0
+453,2372.0,4.0,2.5,2500.0,1984.0,449 Fanning St,Single Family Home,Manor Heights,Staten Island,685000.0
+454,3100.0,5.0,5.0,10018.809200000002,1999.0,42 Sherwood Ave,Single Family Home,Pleasant Plains,Staten Island,950000.0
+455,2700.0,5.0,3.5,7800.0,1988.0,162 Portage Ave,Single Family Home,Manor Heights,Staten Island,800000.0
+456,1400.0,2.0,2.0,2970.0,1920.0,60 Josephine St,Single Family Home,Westerleigh,Staten Island,519999.0
+457,2112.0,3.0,2.0,3400.0,1920.0,92 Hanover Ave,Single Family Home,Prince's Bay,Staten Island,697000.0
+458,2097.0,4.0,1.5,5874.0,1964.0,92 Bolivar St,Single Family Home,Todt Hill,Staten Island,860000.0
+459,1660.0,3.0,2.5,2113.0,1998.0,27 Forest Ave,Single Family Home,Tompkinsville,Staten Island,594000.0
+460,1320.0,3.0,1.5,1420.0,1960.0,736 N Railroad Ave,Single Family Home,Dongan Hills,Staten Island,570000.0
+461,1088.0,3.0,2.0,950.0,1925.0,2042 W 7th St,Single Family Home,Gravesend,Brooklyn,799000.0
+462,1488.0,3.0,3.5,2500.0,2020.0,49 Hamilton St,Single Family Home,Stapleton,Staten Island,560000.0
+463,1057.0,3.0,1.0,3000.0,1930.0,15 Dana St,Single Family Home,West Brighton,Staten Island,610000.0
+464,2000.0,3.0,2.5,3110.0,1999.0,121 Sharrott Ave,Single Family Home,Pleasant Plains,Staten Island,647000.0
+465,3000.0,8.0,3.0,2003.0,1910.0,327 51st St,Multi-Family Home,Sunset Park,Brooklyn,890000.0
+466,737.0,2.0,1.5,2614.0,1925.0,60-77 59th Dr,Single Family Home,Maspeth,New York,669000.0
+467,1480.0,3.0,1.5,2614.0,1935.0,90-45 55th Ave,Single Family Home,Elmhurst,New York,888000.0
+468,983.0,2.0,1.5,1300.0,1920.0,1249 E 59th St,Single Family Home,Flatlands,Brooklyn,469500.0
+469,2400.0,4.0,3.0,4433.0,1960.0,320 Whitman Dr,Single Family Home,Mill Basin,Brooklyn,1375000.0
+470,1680.0,3.0,2.5,2600.0,1998.0,1073 Rensselaer Ave,Single Family Home,Woodrow,Staten Island,700000.0
+471,1720.0,3.0,2.0,8910.0,1945.0,115 Wheeling Ave,Single Family Home,Prince's Bay,Staten Island,720000.0
+472,3993.0,5.0,4.5,5335.0,1984.0,71 Ravenna St,Single Family Home,Annadale,Staten Island,960000.0
+473,1911.0,3.0,2.5,4100.0,1965.0,5 Ridge Ave,Single Family Home,Concord,Staten Island,760000.0
+474,1248.0,3.0,2.0,3800.0,2017.0,754 Patterson Ave,Single Family Home,Midland Beach,Staten Island,550000.0
+475,3000.0,3.0,2.5,3000.0,1994.0,32 Robin Ct,Condo,Woodrow,Staten Island,715000.0
+476,1836.0,3.0,2.5,4000.0,1910.0,443 79th St,Single Family Home,Bay Ridge,Brooklyn,1425000.0
+477,1080.0,2.0,2.5,1200.0,2004.0,23 Justin Ave,Condo,Bay Terrace,Staten Island,495000.0
+478,3276.0,7.0,4.0,2608.0,1931.0,6808 21st Ave,Multi-Family Home,Bensonhurst,Brooklyn,1720000.0
+479,1960.0,6.0,3.0,3000.0,1930.0,2359 63rd St,Multi-Family Home,Borough Park,Brooklyn,1350000.0
+480,1500.0,3.0,1.5,2000.0,2020.0,363 Freeborn St,Single Family Home,Midland Beach,Staten Island,580000.0
+481,1616.0,4.0,3.0,2800.0,1930.0,1626 Madison Pl,Multi-Family Home,Marine Park,Brooklyn,925000.0
+482,2400.0,4.0,1.0,49.0,1984.0,133 Rockne St,Single Family Home,New Springville,Staten Island,550000.0
+483,1880.0,3.0,2.5,2800.0,1978.0,210 Woodrow Rd,Single Family Home,Eltingville,Staten Island,639000.0
+484,1350.0,3.0,1.5,1500.0,1986.0,10 Cherrywood Ct,Condo,Great Kills,Staten Island,470000.0
+485,2220.0,4.0,2.0,4280.0,1965.0,28 Holgate St,Single Family Home,Westerleigh,Staten Island,770000.0
+486,1380.0,3.0,1.5,1400.0,1996.0,531 Lynn St,Condo,Oakwood,Staten Island,500000.0
+487,1900.0,3.0,2.0,2000.0,1925.0,2921 Fillmore Ave,Single Family Home,Marine Park,Brooklyn,730000.0
+488,1196.0,3.0,2.0,5690.0,1955.0,233 Little Clove Rd,Single Family Home,Sunnyside,Staten Island,608000.0
+489,784.0,2.0,1.5,1035.0,1996.0,41 Greenfield Ct,Condo,Clifton,Staten Island,420000.0
+490,1230.0,3.0,2.0,2000.0,1925.0,1651 E 48th St,Single Family Home,Flatlands,Brooklyn,752000.0
+491,3756.0,5.0,4.0,2523.0,1901.0,130-134 Watchogue Rd,Multi-Family Home,Westerleigh,Staten Island,900000.0
+492,1302.0,3.0,2.5,3690.0,1910.0,134 Greenfield Ave,Single Family Home,Clifton,Staten Island,538000.0
+493,1666.0,5.0,2.5,1666.0,1910.0,3907 7th Ave,Multi-Family Home,Sunset Park,Brooklyn,1060000.0
+494,1187.0,2.0,1.5,1471.0,1986.0,64 Seguine Pl,Condo,Annadale,Staten Island,415000.0
+495,1184.0,2.0,1.0,2531.0,1899.0,805 Van Duzer St,Single Family Home,Stapleton,Staten Island,200000.0
+496,1292.0,3.0,3.0,1742.0,1905.0,90-08 86th Rd,Single Family Home,Woodhaven,New York,632000.0
+497,950.0,3.0,2.5,1120.0,2002.0,43 Studio Ln,Single Family Home,Clifton,Staten Island,450000.0
+498,1646.0,3.0,3.5,2774.0,1998.0,57 Belfast Ave,Single Family Home,New Dorp,Staten Island,700000.0
+499,1960.0,3.0,1.5,3306.0,1997.0,469 Harold Ave,Single Family Home,Annadale,Staten Island,820000.0
+500,2464.0,4.0,3.0,4000.0,1960.0,2542 E 65th St,Single Family Home,Mill Basin,Brooklyn,1115000.0
+501,1260.0,2.0,2.0,2500.0,1925.0,93 Sanford Pl,Single Family Home,Castleton Corners,Staten Island,585000.0
+502,2216.0,3.0,2.5,2500.0,1986.0,33 Corona Ave,Single Family Home,Great Kills,Staten Island,635000.0
+503,1861.0,5.0,3.0,3882.0,1999.0,1304 Richmond Ave,Single Family Home,Graniteville,Staten Island,720000.0
+504,2224.0,3.0,2.5,1152.0,1999.0,52 Forest Ln,Condo,Tottenville,Staten Island,499000.0
+505,2340.0,5.0,2.5,2000.0,1935.0,2046 E 34th St,Multi-Family Home,Marine Park,Brooklyn,910000.0
+506,1275.0,2.0,2.0,2820.0,1930.0,41 Wild Ave,Single Family Home,Travis - Chelsea,Staten Island,505000.0
+507,1252.0,3.0,1.0,2800.0,1925.0,11 Hawthorne Ave,Single Family Home,Westerleigh,Staten Island,525000.0
+508,2817.0,4.0,3.0,5000.0,1970.0,177 Lamoka Ave,Single Family Home,Great Kills,Staten Island,850000.0
+509,839.0,2.0,1.0,2100.0,1920.0,12 Presley St,Single Family Home,Great Kills,Staten Island,423000.0
+510,1364.0,3.0,1.5,946.0,1988.0,18A Fuller Ct,Condo,Great Kills,Staten Island,485000.0
+511,1800.0,3.0,1.5,2408.0,1920.0,43 Lockman Ave,Single Family Home,Mariners Harbor,Staten Island,522000.0
+512,3016.0,3.0,3.0,4200.0,1975.0,248 Kelly Blvd,Single Family Home,New Springville,Staten Island,930000.0
+513,2267.0,3.0,2.5,2500.0,2004.0,150 Fairfield St,Single Family Home,Great Kills,Staten Island,724000.0
+514,2196.0,3.0,2.5,1778.0,1945.0,129 Bay 7 St,Single Family Home,Bath Beach,Brooklyn,998000.0
+515,1320.0,3.0,1.5,1708.0,1950.0,8843 18th Ave,Single Family Home,Bath Beach,Brooklyn,1080000.0
+516,1320.0,3.0,1.5,1708.0,1950.0,8843 18th Ave,Single Family Home,Bath Beach,Brooklyn,1080000.0
+517,1248.0,3.0,1.5,2150.0,1920.0,1465 E 56th St,Single Family Home,Flatlands,Brooklyn,608000.0
+518,1320.0,3.0,1.5,2808.0,1955.0,1361 E 89th St,Single Family Home,Canarsie,Brooklyn,490000.0
+519,2142.0,5.0,2.0,6000.0,1930.0,11302 Hannibal St,Single Family Home,Hollis,New York,560000.0
+520,1400.0,4.0,1.0,4000.0,1905.0,141 Highview Ave,Single Family Home,New Brighton,Staten Island,439500.0
+521,1060.0,2.0,1.5,1020.0,1994.0,66 Ashley Ln,Single Family Home,Rossville,Staten Island,480000.0
+522,1498.0,4.0,1.5,2000.0,1920.0,1852 78th St,Single Family Home,Bensonhurst,Brooklyn,887000.0
+523,736.0,2.0,2.0,2700.0,1925.0,254 Jacques Ave,Single Family Home,New Dorp Beach,Staten Island,375000.0
+524,1980.0,2.0,2.0,3104.0,1920.0,194 Chandler Ave,Single Family Home,Westerleigh,Staten Island,700000.0
+525,1508.0,3.0,3.0,4205.0,1920.0,53 Lynhurst Ave,Single Family Home,Rosebank,Staten Island,624000.0
+526,2268.0,6.0,2.5,3920.0,1970.0,212-52 Whitehall Ter,Single Family Home,Queens Village,New York,920000.0
+527,1216.0,3.0,2.5,1742.0,1920.0,147-37 Coolidge Ave,Single Family Home,Briarwood,Queens,720000.0
+528,1224.0,3.0,2.0,1742.0,1950.0,21-42 81st St,Single Family Home,Astoria,New York,815000.0
+529,1280.0,3.0,2.5,2614.0,1920.0,107-12 135th St,Single Family Home,South Ozone Park,New York,637000.0
+530,2100.0,3.0,1.5,7680.0,1985.0,184 Chelsea St,Single Family Home,Tottenville,Staten Island,775000.0
+531,2288.0,5.0,5.0,3100.0,1975.0,78 Shale St,Single Family Home,New Springville,Staten Island,838000.0
+532,4242.0,4.0,4.5,5000.0,2020.0,390 Yetman Ave,Single Family Home,Tottenville,Staten Island,1155000.0
+533,2199.0,3.0,1.5,4000.0,1975.0,139 Getz Ave,Single Family Home,Eltingville,Staten Island,800000.0
+534,1440.0,3.0,2.5,2500.0,1987.0,1096 Rensselaer Ave,Single Family Home,Woodrow,Staten Island,675000.0
+535,2540.0,4.0,3.5,4107.0,1997.0,859 Rossville Ave,Single Family Home,Rossville,Staten Island,720000.0
+536,2220.0,4.0,3.5,5637.0,2020.0,35 Howe St,Single Family Home,West Brighton,Staten Island,868000.0
+537,2110.0,3.0,1.5,3540.0,1960.0,50 Linton Pl,Single Family Home,Great Kills,Staten Island,655000.0
+538,1148.0,3.0,2.0,3000.0,1920.0,1726 E 52nd St,Single Family Home,Flatlands,Brooklyn,640000.0
+539,1200.0,3.0,2.5,3052.0,2000.0,35 Arkansas Ave,Single Family Home,Great Kills,Staten Island,660800.0
+540,1612.0,4.0,1.5,4000.0,1970.0,949 Stafford Ave,Single Family Home,Woodrow,Staten Island,730000.0
+541,1700.0,3.0,2.0,2200.0,1930.0,4576 Bedford Ave,Single Family Home,Sheepshead Bay,Brooklyn,789000.0
+542,1971.0,3.0,1.5,1817.0,1955.0,2005 Gerritsen Ave,Single Family Home,Marine Park,Brooklyn,803000.0
+543,1185.0,3.0,1.5,4200.0,1985.0,419 Main St,Single Family Home,Tottenville,Staten Island,745000.0
+544,2496.0,3.0,3.0,4000.0,1980.0,334 Doane Ave,Single Family Home,Great Kills,Staten Island,869000.0
+545,1360.0,4.0,2.0,1855.0,1930.0,1969 E 29th St,Single Family Home,Sheepshead Bay,Brooklyn,835000.0
+546,3400.0,4.0,4.5,4700.0,2007.0,228 Melvin Ave,Single Family Home,Travis - Chelsea,Staten Island,959000.0
+547,1036.0,3.0,1.0,1800.0,1925.0,1949 E 37th St,Single Family Home,Marine Park,Brooklyn,598000.0
+548,1200.0,3.0,1.5,3534.0,1998.0,758 Bloomingdale Rd,Single Family Home,Rossville,Staten Island,599000.0
+549,3296.0,6.0,6.0,3050.0,1980.0,45 Monitor St,Single Family Home,Williamsburg,Brooklyn,1695000.0
+550,1008.0,2.0,1.5,1800.0,1925.0,1872 E 36th St,Single Family Home,Marine Park,Brooklyn,620000.0
+551,1200.0,3.0,2.5,2700.0,1970.0,415 Montreal Ave,Single Family Home,Oakwood,Staten Island,555000.0
+552,1500.0,3.0,3.5,3102.0,2018.0,27 Apricot Ct,Single Family Home,Rossville,Staten Island,660000.0
+553,936.0,2.0,1.5,1701.0,1975.0,81 Armstrong Ave,Single Family Home,Great Kills,Staten Island,468000.0
+554,1690.0,3.0,2.0,1746.0,1950.0,1122 E 221st St,Single Family Home,Williamsbridge,Bronx,530000.0
+555,2268.0,3.0,3.5,4940.0,1905.0,129 Highview Ave,Single Family Home,New Brighton,Staten Island,530000.0
+556,1620.0,2.0,2.0,1296.0,1940.0,219 Ryder Ave,Single Family Home,Midwood,Brooklyn,750000.0
+557,840.0,1.0,1.5,840.0,1981.0,77 Rumson Rd,Condo,New Springville,Staten Island,325000.0
+558,1232.0,2.0,1.5,1300.0,1990.0,1971 S Railroad Ave,Condo,Oakwood,Staten Island,490000.0
+559,1492.0,7.0,3.5,2324.0,2005.0,56 Santa Monica Ln,Single Family Home,Woodrow,Staten Island,630000.0
+560,1890.0,3.0,2.5,2725.0,2006.0,26 White St,Single Family Home,Rosebank,Staten Island,670000.0
+561,560.0,3.0,2.5,2000.0,1925.0,956 E 95th St,Single Family Home,Canarsie,Brooklyn,595000.0
+562,1700.0,5.0,2.0,1800.0,1925.0,1675 Bay Ridge Pkwy,Multi-Family Home,Bensonhurst,Brooklyn,998000.0
+563,1620.0,3.0,2.5,2000.0,1930.0,7902 14th Ave,Single Family Home,Dyker Heights,Brooklyn,1180000.0
+564,2220.0,5.0,3.0,4000.0,1965.0,125 Barlow Dr S,Single Family Home,Mill Basin,Brooklyn,1170000.0
+565,1204.0,3.0,2.5,2500.0,2004.0,64 Whitney Ave,Single Family Home,Grasmere,Staten Island,670000.0
+566,1320.0,3.0,2.5,6850.0,1905.0,31 Layton Ave,Single Family Home,New Brighton,Staten Island,499000.0
+567,1200.0,3.0,1.0,5800.0,1955.0,17 Shirley Ave,Single Family Home,Eltingville,Staten Island,552000.0
+568,1946.0,5.0,3.0,2900.0,1925.0,525 Cary Ave,Single Family Home,West Brighton,Staten Island,420000.0
+569,1560.0,3.0,2.0,3822.0,1930.0,5 Washington Pl,Single Family Home,Port Richmond,Staten Island,400000.0
+570,1834.0,3.0,2.0,3920.0,1940.0,29-23 171 St,Single Family Home,Flushing,New York,1105000.0
+571,2411.0,6.0,5.0,4050.0,2020.0,315 Bartlett Ave,Single Family Home,Eltingville,Staten Island,999999.0
+572,1181.0,4.0,1.5,6534.0,1915.0,154-46 10 Ave,Single Family Home,Whitestone,New York,970000.0
+573,1800.0,7.0,2.0,2178.0,1925.0,111-09 106th St,Multi-Family Home,South Ozone Park,Queens,849000.0
+574,1300.0,3.0,1.5,4792.0,1925.0,61 South Ave,Single Family Home,Mariners Harbor,Staten Island,490000.0
+575,950.0,2.0,2.0,2178.0,1940.0,199-21 24th Rd,Single Family Home,Clearview,Queens,755500.0
+576,950.0,2.0,2.0,2178.0,1940.0,199-21 24th Rd,Single Family Home,Clearview,Queens,755500.0
+577,2245.0,4.0,2.0,4000.0,1970.0,5 Brandis Ave,Single Family Home,Eltingville,Staten Island,715000.0
+578,1568.0,3.0,2.5,2000.0,1935.0,1641 E 31st St,Single Family Home,Marine Park,Brooklyn,859000.0
+579,1308.0,3.0,2.5,3928.0,2004.0,51 Ridgeway Ave,Single Family Home,Travis - Chelsea,Staten Island,625000.0
+580,1804.0,4.0,2.5,2100.0,2014.0,158 Moreland St,Single Family Home,Midland Beach,Staten Island,730000.0
+581,2000.0,3.0,3.0,5880.0,1999.0,199 Wood Ave,Single Family Home,Tottenville,Staten Island,755000.0
+582,2000.0,3.0,1.5,3360.0,1925.0,485 College Ave,Single Family Home,Westerleigh,Staten Island,725000.0
+583,2206.0,3.0,2.5,1854.0,1992.0,114 Pembrook Loop,Condo,Woodrow,Staten Island,600000.0
+584,1700.0,3.0,2.5,7020.0,2010.0,79 Perona Ln,Condo,Great Kills,Staten Island,675000.0
+585,1332.0,3.0,2.5,2842.0,1975.0,490 Wainwright Ave,Single Family Home,Eltingville,Staten Island,645000.0
+586,3285.0,7.0,3.0,1900.0,1901.0,427 64th St,Multi-Family Home,Sunset Park,Brooklyn,1300000.0
+587,504.0,0.0,1.0,504.0,1988.0,29 Winding Woods Loop,Condo,Tottenville,Staten Island,179000.0
+588,1260.0,3.0,1.0,5840.0,1925.0,52 Oceanic Ave,Single Family Home,Eltingville,Staten Island,620000.0
+589,880.0,3.0,1.5,2850.0,1962.0,205 Willard Ave,Single Family Home,Westerleigh,Staten Island,520000.0
+590,2160.0,3.0,2.5,4040.0,1925.0,96 Crowell Ave,Single Family Home,Westerleigh,Staten Island,846500.0
+591,1576.0,3.0,2.0,4320.0,1935.0,123 Gansevoort Blvd,Single Family Home,Westerleigh,Staten Island,750000.0
+592,2799.0,5.0,4.5,3807.0,2012.0,24 Sweetwater Ave,Single Family Home,Great Kills,Staten Island,995000.0
+593,8360.0,8.0,9.0,2310.0,1892.0,42 W 70th St,Condo,Upper West Side,Manhattan,8000000.0
+594,2430.0,3.0,3.5,2850.0,2004.0,37 Fox Hill Ter,Single Family Home,Rosebank,Staten Island,810000.0
+595,2233.0,3.0,3.5,2500.0,2000.0,20 Pitney Ave,Single Family Home,Woodrow,Staten Island,660000.0
+596,1152.0,3.0,1.5,2500.0,1965.0,144 Brookfield Ave,Single Family Home,Great Kills,Staten Island,565000.0
+597,2484.0,5.0,5.0,1800.0,1965.0,2605 E 63rd St,Multi-Family Home,Mill Basin,Brooklyn,967500.0
+598,1449.0,3.0,2.0,1450.0,1930.0,26 Targee St,Single Family Home,Stapleton,Staten Island,400000.0
+599,1600.0,3.0,2.5,2000.0,1989.0,597 Greeley Ave,Condo,Midland Beach,Staten Island,530000.0
+600,975.0,3.0,1.0,2465.0,1986.0,41 Ackerman St,Single Family Home,Great Kills,Staten Island,460000.0
+601,1776.0,4.0,4.0,3425.0,2003.0,7120 Bergen Ct,Multi-Family Home,Bergen Beach,Brooklyn,960000.0
+602,2365.0,2.0,1.5,2539.0,2007.0,24 Chart Loop,Single Family Home,Charleston,Staten Island,680000.0
+603,1400.0,3.0,2.0,3100.0,1910.0,230 Charles Ave,Single Family Home,Port Richmond,Staten Island,515000.0
+604,1400.0,3.0,2.0,3100.0,1910.0,230 Charles Ave,Single Family Home,Port Richmond,Staten Island,515000.0
+605,2200.0,4.0,2.0,2825.0,1925.0,121 Osgood Ave,Single Family Home,Stapleton,Staten Island,250000.0
+606,1350.0,3.0,1.5,4792.0,1950.0,198-14 51 Ave,Single Family Home,Auburndale,Queens,920000.0
+607,1224.0,4.0,3.0,3920.0,1965.0,138-09 15th Ave,Single Family Home,Whitestone,New York,998000.0
+608,2400.0,5.0,3.5,3049.0,2001.0,42-11 194th St,Multi-Family Home,Auburndale,Queens,1335000.0
+609,1471.0,3.0,2.0,1742.0,1920.0,6919 69th Pl,Single Family Home,Glendale,Queens,721000.0
+610,1553.0,4.0,3.5,560.0,1996.0,198 Ilyssa Way,Single Family Home,Eltingville,Staten Island,468888.0
+611,2107.0,3.0,2.5,2900.0,1985.0,78 Boyce Ave,Single Family Home,Great Kills,Staten Island,662000.0
+612,1963.0,4.0,3.0,4040.0,1940.0,89 Cuba Ave,Single Family Home,New Dorp Beach,Staten Island,925000.0
+613,2400.0,3.0,3.5,4275.0,2006.0,848 Ionia Ave,Single Family Home,Woodrow,Staten Island,985000.0
+614,1976.0,3.0,2.5,2000.0,1977.0,60 Claradon Ln,Condo,Grasmere,Staten Island,613000.0
+615,2480.0,5.0,2.5,1940.0,1935.0,8101 11th Ave,Multi-Family Home,Dyker Heights,Brooklyn,1500000.0
+616,2392.0,6.0,3.0,4200.0,1960.0,200 Reno Ave,Single Family Home,New Dorp,Staten Island,870000.0
+617,1464.0,3.0,2.0,5730.0,1930.0,39 Rockland Ave,Single Family Home,East Shore,Staten Island,720000.0
+618,1820.0,3.0,2.0,5720.0,1960.0,31 Clinton Ct,Single Family Home,New Brighton,Staten Island,575000.0
+619,1964.0,6.0,3.0,2667.0,1915.0,572 E 32nd St,Single Family Home,Flatbush,Brooklyn,840000.0
+620,1410.0,4.0,2.0,5000.0,1960.0,155 Abingdon Ave,Single Family Home,Great Kills,Staten Island,790000.0
+621,1248.0,3.0,1.5,2576.0,1974.0,419 Pompey Ave,Single Family Home,Eltingville,Staten Island,523000.0
+622,1408.0,3.0,1.5,2000.0,1925.0,1218 E 59th St,Single Family Home,Flatlands,Brooklyn,705000.0
+623,1165.0,2.0,1.5,2000.0,1990.0,29 Arthur Ct,Condo,Westerleigh,Staten Island,490000.0
+624,1568.0,3.0,2.0,2017.0,1930.0,2033 E 37th St,Single Family Home,Marine Park,Brooklyn,725000.0
+625,1830.0,3.0,2.5,946.0,1988.0,26 Croft Ct,Condo,Great Kills,Staten Island,572500.0
+626,2496.0,5.0,3.0,5162.0,1960.0,364 8th St,Single Family Home,Oakwood,Staten Island,940000.0
+627,904.0,2.0,3.0,2333.0,1930.0,164 Avenue V,Single Family Home,Gravesend,Brooklyn,738000.0
+628,1499.0,3.0,3.5,2500.0,1935.0,155 Norfolk St,Single Family Home,Manhattan Beach,Brooklyn,1400000.0
+629,2475.0,4.0,2.0,3672.0,1935.0,34 Rainbow Ave,Single Family Home,Port Richmond,Staten Island,625000.0
+630,2100.0,4.0,3.5,4515.0,1970.0,68 Oliver Pl,Single Family Home,Bulls Head,Staten Island,750000.0
+631,2640.0,3.0,3.0,1980.0,1925.0,2948 Richmond Ter,Single Family Home,Mariners Harbor,Staten Island,315000.0
+632,1218.0,3.0,1.5,3000.0,2002.0,209 Maple Pkwy,Single Family Home,Mariners Harbor,Staten Island,480000.0
+633,1564.0,4.0,2.0,3920.0,1950.0,11833 225th St,Single Family Home,Cambria Heights,New York,582000.0
+634,2575.0,5.0,3.5,2178.0,1960.0,79-08 150th St,Multi-Family Home,Kew Gardens Hills,Queens,1160000.0
+635,859.0,1.0,2.5,859.0,1998.0,8676 23rd Ave,Condo,Gravesend,Brooklyn,500000.0
+636,1872.0,3.0,2.0,2187.0,1910.0,336 77th St,Single Family Home,Bay Ridge,Brooklyn,1150000.0
+637,1500.0,3.0,2.5,2000.0,1920.0,2808 Ford St,Single Family Home,Sheepshead Bay,Brooklyn,800000.0
+638,1844.0,9.0,4.0,2500.0,1925.0,200 Benziger Ave,Single Family Home,New Brighton,Staten Island,460000.0
+639,2230.0,3.0,3.0,6150.0,1965.0,210 Spratt Ave,Single Family Home,Bay Terrace,Staten Island,868500.0
+640,3040.0,4.0,3.5,4883.0,2010.0,149 Quincy Ave,Single Family Home,South Beach,Staten Island,975000.0
+641,1332.0,3.0,1.5,2553.0,1987.0,5 Shiel Ave,Single Family Home,Rossville,Staten Island,570000.0
+642,1196.0,3.0,2.5,3100.0,1965.0,3440 Richmond Ave,Single Family Home,Eltingville,Staten Island,611250.0
+643,1520.0,3.0,2.5,4000.0,1925.0,258 Poultney St,Single Family Home,Midland Beach,Staten Island,675000.0
+644,2250.0,3.0,3.5,2500.0,2000.0,237 Gaynor St,Single Family Home,Woodrow,Staten Island,675000.0
+645,2000.0,3.0,3.5,3096.0,2002.0,152 Graham Ave,Single Family Home,Bulls Head,Staten Island,730000.0
+646,1526.0,3.0,2.5,1950.0,1960.0,5 Zoe St,Single Family Home,Dongan Hills,Staten Island,587000.0
+647,2944.0,3.0,2.0,6450.0,1910.0,215 Ward Ave,Single Family Home,Tompkinsville,Staten Island,765000.0
+648,1314.0,3.0,1.5,4500.0,1937.0,85 Hillside Ter,Single Family Home,Great Kills,Staten Island,690000.0
+649,1140.0,2.0,1.5,1298.0,1990.0,26 Jupiter Ln,Condo,Graniteville,Staten Island,372900.0
+650,1116.0,2.0,2.5,984.0,1991.0,764 Barlow Ave,Single Family Home,Eltingville,Staten Island,475000.0
+651,978.0,2.0,1.0,978.0,1983.0,571 Correll Ave,Condo,Rossville,Staten Island,385000.0
+652,1700.0,3.0,2.0,2100.0,1935.0,1563 81st St,Single Family Home,Bensonhurst,Brooklyn,945000.0
+653,1240.0,5.0,2.0,6000.0,1960.0,426 Bard Ave,Single Family Home,West Brighton,Staten Island,693000.0
+654,1712.0,3.0,1.5,2317.0,1925.0,120 86th St,Single Family Home,Bay Ridge,Brooklyn,1055000.0
+655,1440.0,3.0,1.5,4000.0,1965.0,81 Birchard Ave,Single Family Home,Willowbrook,Staten Island,605000.0
+656,1507.0,2.0,1.0,5000.0,1945.0,276 Atlantic Ave,Single Family Home,Dongan Hills,Staten Island,725000.0
+657,1216.0,3.0,1.5,27007.2248,1975.0,347 Melba St,Single Family Home,Manor Heights,Staten Island,535000.0
+658,2441.0,3.0,3.5,2500.0,1985.0,392 Nome Ave,Single Family Home,New Springville,Staten Island,751000.0
+659,1775.0,3.0,2.5,1785.0,1930.0,2041 E 28th St,Single Family Home,Sheepshead Bay,Brooklyn,929000.0
+660,1632.0,4.0,2.5,6000.0,1940.0,191-11 120th Ave,Multi-Family Home,St. Albans,Queens,712500.0
+661,3169.0,7.0,3.5,2000.0,1910.0,453 63rd St,Multi-Family Home,Sunset Park,Brooklyn,1420000.0
+662,1200.0,4.0,2.0,2500.0,1930.0,270 Glen Ave,Single Family Home,Tompkinsville,Staten Island,353000.0
+663,1536.0,2.0,3.0,3920.0,1920.0,137-18 95th St,Multi-Family Home,Ozone Park,New York,795000.0
+664,1512.0,5.0,2.0,2400.0,1925.0,1058 E 35th St,Single Family Home,Flatlands,Brooklyn,720000.0
+665,1168.0,3.0,1.5,1742.0,1920.0,9147 111th St,Single Family Home,Richmond Hill,New York,624000.0
+666,2560.0,5.0,2.0,2450.0,1930.0,1020 74th St,Multi-Family Home,Dyker Heights,Brooklyn,1533000.0
+667,1115.0,3.0,2.0,3485.0,1945.0,51-15 Marathon Pkwy,Single Family Home,Little Neck,New York,914000.0
+668,1836.0,4.0,2.0,2614.0,1920.0,103-12 103rd St,Multi-Family Home,Richmond Hill,Queens,700000.0
+669,2760.0,4.0,3.0,2000.0,1960.0,2079 E 52nd St,Multi-Family Home,Mill Basin,Brooklyn,818000.0
+670,1400.0,4.0,2.0,900.0,1981.0,134 Timber Ridge Dr,Condo,Great Kills,Staten Island,460000.0
+671,2816.0,3.0,3.5,4500.0,1986.0,40 Hillcrest St,Single Family Home,Great Kills,Staten Island,914000.0
+672,1296.0,3.0,1.5,1800.0,1979.0,13 Hillridge Ct,Condo,Rosebank,Staten Island,550000.0
+673,2660.0,4.0,3.5,6300.0,2004.0,21 Piedmont Ave,Single Family Home,Grasmere,Staten Island,1277100.0
+674,1622.0,4.0,2.5,2280.0,1999.0,28 Anaconda St,Single Family Home,Huguenot,Staten Island,650000.0
+675,1644.0,4.0,3.0,8000.0,1940.0,305 Edinboro Rd,Single Family Home,Lighthouse Hill,Staten Island,925000.0
+676,1910.0,4.0,2.5,1800.0,1935.0,1335 86th St,Single Family Home,Dyker Heights,Brooklyn,1120000.0
+677,1288.0,3.0,2.0,1680.0,1920.0,50 Gotham Ave,Single Family Home,Gerritsen Beach,Brooklyn,660000.0
+678,1770.0,4.0,3.5,4000.0,1970.0,102 Oakville St,Single Family Home,Willowbrook,Staten Island,780000.0
+679,980.0,3.0,1.5,1800.0,1925.0,1921 E 34th St,Single Family Home,Marine Park,Brooklyn,665000.0
+680,1264.0,3.0,1.0,3000.0,1915.0,41 Tompkins St,Single Family Home,Stapleton,Staten Island,345000.0
+681,1633.0,3.0,2.0,1440.0,1935.0,6617 Ovington Ct,Single Family Home,Bensonhurst,Brooklyn,930000.0
+682,1503.0,5.0,2.5,3920.0,1957.0,13307 160th St,Single Family Home,Rochdale,Queens,460000.0
+683,2420.0,5.0,2.0,2178.0,1960.0,751 E 84th St,Multi-Family Home,Canarsie,Brooklyn,875000.0
+684,1884.0,3.0,3.0,2544.0,1980.0,55 Goller Pl,Single Family Home,Bulls Head,Staten Island,626000.0
+685,2146.0,9.0,3.0,2250.0,1925.0,1725 66th St,Multi-Family Home,Bensonhurst,Brooklyn,1438000.0
+686,1224.0,3.0,2.0,2178.0,1950.0,61-10 67 St,Single Family Home,Middle Village,New York,850000.0
+687,1440.0,3.0,2.5,2500.0,1997.0,161 Bath Ave,Single Family Home,Dongan Hills,Staten Island,670000.0
+688,1080.0,3.0,2.0,6000.0,1950.0,101 Delaware St,Single Family Home,Dongan Hills,Staten Island,790000.0
+689,1080.0,2.0,1.5,1320.0,1979.0,130 North Dr,Condo,Rosebank,Staten Island,483500.0
+690,2382.0,3.0,2.5,3380.0,2020.0,15 Barry St,Single Family Home,Rossville,Staten Island,699000.0
+691,1200.0,3.0,1.5,2695.0,1965.0,55 Chestnut Ave,Single Family Home,Rosebank,Staten Island,540000.0
+692,1080.0,2.0,1.5,1391.0,1981.0,38 Bower Ct,Condo,Rossville,Staten Island,425000.0
+693,1780.0,3.0,3.5,2725.0,1998.0,72 Kennington St,Single Family Home,Great Kills,Staten Island,690000.0
+694,2560.0,4.0,2.0,6100.0,1910.0,22 Dongan St,Single Family Home,West Brighton,Staten Island,590000.0
+695,2422.0,3.0,3.5,2750.0,2020.0,1209 Willowbrook Rd,Single Family Home,New Dorp,Staten Island,720000.0
+696,2006.0,3.0,2.5,2250.0,2000.0,302 Wingham St,Single Family Home,Rosebank,Staten Island,780000.0
+697,3235.0,5.0,5.5,7030.0,1975.0,34 Wetmore Rd,Single Family Home,Grymes Hill,Staten Island,945000.0
+698,4000.0,3.0,2.0,3920.0,1940.0,50-14 245th St,Single Family Home,Douglaston,Queens,1200000.0
+699,5870.0,4.0,4.5,13939.2128,2001.0,55 Arbor Ct,Single Family Home,Emerson Hill,Staten Island,2400000.0
+700,2042.0,4.0,2.0,4200.0,1970.0,773 Rensselaer Ave,Single Family Home,Huguenot,Staten Island,734900.0
+701,1491.0,3.0,2.0,3600.0,1915.0,248 Delafield Ave,Single Family Home,West Brighton,Staten Island,603500.0
+702,1584.0,3.0,2.0,2850.0,1970.0,11 Bowden St,Single Family Home,Grant City,Staten Island,670000.0
+703,1092.0,3.0,2.0,2100.0,1925.0,92 Coursen Pl,Single Family Home,Stapleton,Staten Island,424000.0
+704,1332.0,3.0,2.5,3300.0,1975.0,33 Ladd Ave,Single Family Home,Greenridge,Staten Island,590000.0
+705,2227.0,3.0,2.0,2178.0,1940.0,30-64 85th St,Multi-Family Home,Jackson Heights,Queens,830000.0
+706,2640.0,4.0,3.5,3330.0,1999.0,15 Craig Ave,Single Family Home,Tottenville,Staten Island,905000.0
+707,2666.0,4.0,3.0,4312.0,1970.0,820 W Fingerboard Rd,Single Family Home,Grasmere,Staten Island,750000.0
+708,3780.0,5.0,4.5,13068.012,1986.0,115 Meade Loop,Single Family Home,Charleston,Staten Island,1075000.0
+709,1440.0,3.0,2.5,2200.0,1994.0,139 Monahan Ave,Single Family Home,New Springville,Staten Island,640000.0
+710,1700.0,4.0,1.5,2800.0,1979.0,120 Carlyle Grn,Single Family Home,Arden Heights,Staten Island,600000.0
+711,2246.0,3.0,1.0,4465.0,1970.0,385 Gower St,Single Family Home,Manor Heights,Staten Island,725000.0
+712,904.0,3.0,2.0,5000.0,1955.0,543 Wainwright Ave,Single Family Home,Eltingville,Staten Island,672000.0
+713,1008.0,2.0,1.5,1044.0,1986.0,63 Raily Ct,Condo,Huguenot,Staten Island,440000.0
+714,1629.0,3.0,2.5,2129.0,2021.0,116 Hope Ave,Condo,Rosebank,Staten Island,650000.0
+715,2072.0,3.0,2.0,4792.0,1933.0,150-31 10 Ave,Single Family Home,Whitestone,New York,950000.0
+716,2088.0,4.0,5.0,4240.0,1970.0,3 Berry Ave,Single Family Home,Eltingville,Staten Island,790000.0
+717,1620.0,3.0,2.0,2376.0,1985.0,3 White St,Single Family Home,Rosebank,Staten Island,560000.0
+718,1120.0,3.0,1.5,2400.0,1980.0,243 Shotwell Ave,Single Family Home,Eltingville,Staten Island,540000.0
+719,2830.0,4.0,2.5,4800.0,1925.0,791 Jewett Ave,Single Family Home,Westerleigh,Staten Island,662500.0
+720,2530.0,4.0,5.0,5040.0,1975.0,3291 Victory Blvd,Single Family Home,Bulls Head,Staten Island,860000.0
+721,1090.0,2.0,1.5,1806.0,1991.0,62 Halpin Ave,Condo,Arden Heights,Staten Island,520000.0
+722,1680.0,4.0,1.0,6000.0,1950.0,1685 Arden Ave,Single Family Home,Eltingville,Staten Island,548000.0
+723,962.0,2.0,1.5,4000.0,1955.0,78 Barton Ave,Single Family Home,Grant City,Staten Island,605000.0
+724,1500.0,2.0,1.5,1424.0,1987.0,23 Venus Ln,Condo,New Springville,Staten Island,493000.0
+725,2275.0,3.0,2.0,2178.0,1920.0,15038 Grand Central Pkwy,Single Family Home,Briarwood,Queens,685000.0
+726,1368.0,3.0,1.5,1742.0,1940.0,29-07 167 St,Single Family Home,Flushing,New York,760000.0
+727,8000.0,5.0,6.5,25700.4236,1996.0,167 Bedell Ave,Single Family Home,Tottenville,Staten Island,1300000.0
+728,2500.0,3.0,2.5,3450.0,1997.0,32 Jardine Ave,Single Family Home,Bulls Head,Staten Island,707500.0
+729,2052.0,4.0,2.0,4000.0,1965.0,72 Vedder Ave,Single Family Home,Westerleigh,Staten Island,680000.0
+730,1440.0,3.0,2.5,2500.0,1994.0,282 Greaves Ave,Single Family Home,Great Kills,Staten Island,645000.0
+731,1480.0,3.0,1.5,1480.0,1981.0,113 Morani St,Condo,Bulls Head,Staten Island,472000.0
+732,1232.0,3.0,1.5,2185.0,1980.0,437 Getz Ave,Single Family Home,Eltingville,Staten Island,570000.0
+733,1400.0,3.0,1.5,1750.0,2000.0,183 Morningstar Rd,Single Family Home,Elm Park,Staten Island,235000.0
+734,1696.0,3.0,2.5,2000.0,1930.0,1562 E 29th St,Single Family Home,Sheepshead Bay,Brooklyn,888000.0
+735,768.0,2.0,1.0,3600.0,1950.0,260 Livermore Ave,Single Family Home,Westerleigh,Staten Island,450000.0
+736,1605.0,4.0,2.5,3920.0,1945.0,61-22 213 St,Single Family Home,Bayside,New York,818888.0
+737,1605.0,4.0,2.5,3920.0,1945.0,61-22 213 St,Single Family Home,Bayside,New York,818888.0
+738,2392.0,4.0,3.5,2070.0,1980.0,23 Ebey Ln,Single Family Home,Huguenot,Staten Island,620000.0
+739,1792.0,4.0,2.0,6000.0,1940.0,96 Maple Pkwy,Single Family Home,Mariners Harbor,Staten Island,563000.0
+740,1690.0,4.0,2.5,2280.0,1975.0,210 McVeigh Ave,Single Family Home,New Springville,Staten Island,625000.0
+741,1920.0,3.0,2.5,3590.0,1975.0,233 Mason Ave,Single Family Home,Dongan Hills,Staten Island,650000.0
+742,1092.0,3.0,2.0,4500.0,1960.0,6 S Greenleaf Ave,Single Family Home,Westerleigh,Staten Island,625000.0
+743,1444.0,3.0,2.5,2500.0,2021.0,53 Parkinson Ave,Single Family Home,Grasmere,Staten Island,735000.0
+744,2411.0,6.0,5.0,4050.0,2020.0,327 Bartlett Ave,Single Family Home,Eltingville,Staten Island,999999.0
+745,1416.0,3.0,2.0,1307.0,1935.0,111-23 75th Rd,Single Family Home,Forest Hills,New York,1400000.0
+746,3000.0,4.0,3.5,5200.0,2001.0,342 Eltingville Blvd,Single Family Home,Eltingville,Staten Island,875000.0
+747,1700.0,3.0,2.5,3767.0,2013.0,106 Sweetgum Ln,Condo,New Springville,Staten Island,760000.0
+748,1500.0,3.0,2.5,1600.0,1997.0,24 Smith St,Condo,Rosebank,Staten Island,495000.0
+749,2000.0,3.0,3.5,3325.0,2006.0,280 Robinson Ave,Single Family Home,Eltingville,Staten Island,830000.0
+750,1804.0,3.0,2.5,3250.0,1986.0,19 Seguine Pl,Single Family Home,Annadale,Staten Island,645000.0
+751,1890.0,3.0,1.5,2688.0,2000.0,302 Bethel Ave,Single Family Home,Tottenville,Staten Island,640000.0
+752,7290.0,9.0,11.0,2043.0,1890.0,110 W 76th St,Multi-Family Home,Upper West Side,Manhattan,5700000.0
+753,7290.0,9.0,11.0,2043.0,1890.0,110-112 W 76th,Multi-Family Home,Upper West Side,Manhattan,8700000.0
+754,1690.0,2.0,1.5,2134.0,1989.0,24 Zachary Ct,Condo,Westerleigh,Staten Island,386600.0
+755,7290.0,9.0,11.0,2043.0,1890.0,112 W 76th St,Multi-Family Home,Upper West Side,Manhattan,3000000.0
+756,1420.0,3.0,2.0,5227.0,1940.0,20619 Richland Ave,Single Family Home,Bayside,New York,960000.0
+757,1536.0,3.0,2.5,2500.0,2001.0,146 Roswell Ave,Single Family Home,Travis - Chelsea,Staten Island,589000.0
+758,1008.0,2.0,1.5,1050.0,1989.0,140 Rosedale Ave,Condo,Huguenot,Staten Island,451000.0
+759,1296.0,3.0,1.5,1233.0,1986.0,15 Shirra Ave,Single Family Home,New Springville,Staten Island,515000.0
+760,1270.0,3.0,2.5,1900.0,2006.0,149 Amador St,Single Family Home,Graniteville,Staten Island,525000.0
+761,1768.0,4.0,2.0,4000.0,1965.0,16 Sparkill Ave,Single Family Home,Concord,Staten Island,750000.0
+762,1440.0,3.0,2.5,2860.0,1965.0,27 Barbara St,Single Family Home,Oakwood,Staten Island,670000.0
+763,1360.0,3.0,1.5,2430.0,1975.0,50 Wilson Ave,Single Family Home,Great Kills,Staten Island,560000.0
+764,940.0,2.0,2.0,3700.0,1955.0,89 Sylvia St,Single Family Home,Eltingville,Staten Island,510000.0
+765,1900.0,2.0,2.5,1243.0,1992.0,717 Correll Ave,Condo,Rossville,Staten Island,476000.0
+766,1360.0,2.0,1.5,1260.0,1992.0,89 Richmond Hill Rd,Condo,New Springville,Staten Island,438000.0
+767,1560.0,2.0,1.5,2220.0,1980.0,520 Midland Ave,Single Family Home,Midland Beach,Staten Island,480000.0
+768,2506.0,4.0,2.5,1960.0,1999.0,26 White Oak Ln,Single Family Home,Woodrow,Staten Island,648000.0
+769,1440.0,3.0,2.5,2860.0,2014.0,9 Dumont Ave,Single Family Home,Dongan Hills,Staten Island,640000.0
+770,1536.0,3.0,1.5,1800.0,1975.0,217 Dover Grn,Condo,Arden Heights,Staten Island,489000.0
+771,1216.0,3.0,1.5,2496.0,1973.0,3970 Victory Blvd,Single Family Home,Travis - Chelsea,Staten Island,490000.0
+772,2246.0,4.0,2.5,4000.0,1980.0,16 Marvin Rd,Single Family Home,Woodrow,Staten Island,750000.0
+773,1658.0,2.0,0.0,3920.0,1945.0,27-21 165th St,Single Family Home,Flushing,New York,818800.0
+774,3544.0,7.0,5.0,3049.0,2004.0,60-08 77th Pl,Multi-Family Home,Maspeth,Queens,1650000.0
+775,4200.0,6.0,6.0,10018.809200000002,2004.0,53 Ottavio Promenade,Single Family Home,Tottenville,Staten Island,1550000.0
+776,1584.0,3.0,1.5,5000.0,1935.0,134 W Cedarview Ave,Single Family Home,Richmond Town,Staten Island,820000.0
+777,1716.0,3.0,2.5,3000.0,1998.0,182 Leverett Ave,Single Family Home,Great Kills,Staten Island,711000.0
+778,1620.0,3.0,2.5,1800.0,1980.0,52 North Dr,Condo,Rosebank,Staten Island,582000.0
+779,1230.0,3.0,2.5,2058.0,1960.0,123 Lamport Blvd,Single Family Home,South Beach,Staten Island,420000.0
+780,1186.0,3.0,2.5,3000.0,1970.0,166 Ardmore Ave,Single Family Home,Willowbrook,Staten Island,670000.0
+781,2900.0,8.0,5.0,4792.0,2021.0,118-28 203rd St,Multi-Family Home,St. Albans,Queens,1030000.0
+782,1024.0,2.0,1.5,2178.0,1945.0,159-23 Powells Cove Blvd,Single Family Home,Whitestone,New York,745000.0
+783,1195.0,3.0,2.5,1900.0,2019.0,150 Freeborn St,Single Family Home,Midland Beach,Staten Island,480000.0
+784,3150.0,3.0,3.0,5000.0,1955.0,245 Burbank Ave,Single Family Home,New Dorp,Staten Island,1316000.0
+785,4788.0,4.0,3.5,12632.4116,2011.0,12 Kayla Ct,Single Family Home,New Dorp,Staten Island,1584000.0
+786,2484.0,5.0,3.5,6000.0,1975.0,416 Edgegrove Ave,Single Family Home,Huguenot,Staten Island,870000.0
+787,1080.0,3.0,1.0,1800.0,1930.0,51 Wavecrest St,Single Family Home,New Dorp Beach,Staten Island,420000.0
+788,1441.0,4.0,1.0,2737.0,1920.0,157 Anderson St,Single Family Home,Rosebank,Staten Island,499999.0
+789,1504.0,5.0,2.5,2500.0,1935.0,1236 E 27th St,Single Family Home,Midwood,Brooklyn,990000.0
+790,2390.0,3.0,1.5,2475.0,1983.0,652 Travis Ave,Single Family Home,New Springville,Staten Island,787950.0
+791,3999.0,4.0,3.5,9297.0,2005.0,33 Bayside Ln,Single Family Home,Prince's Bay,Staten Island,1190000.0
+792,1216.0,3.0,1.5,3920.0,1920.0,85-18 55th Ave,Single Family Home,Elmhurst,New York,1080000.0
+793,2366.0,6.0,2.5,4454.0,1970.0,11 Elias Pl,Single Family Home,Westerleigh,Staten Island,884900.0
+794,1188.0,3.0,1.5,1943.0,1982.0,26 Charleston Ave,Condo,New Dorp,Staten Island,437500.0
+795,1500.0,3.0,3.5,2500.0,2020.0,7 Smith St,Single Family Home,Rosebank,Staten Island,655000.0
+796,1052.0,3.0,2.0,2790.0,1925.0,393 Pelton Ave,Single Family Home,West Brighton,Staten Island,525000.0
+797,1592.0,2.0,2.0,1600.0,1950.0,2117 E 35th St,Single Family Home,Marine Park,Brooklyn,673000.0
+798,1767.0,3.0,2.0,2200.0,1945.0,28 E 55th St,Multi-Family Home,East Flatbush,Brooklyn,650000.0
+799,1485.0,4.0,1.5,2178.0,1925.0,113-31 Union Tpke,Single Family Home,Forest Hills,New York,1045000.0
+800,4867.0,4.0,4.5,13503.6124,1986.0,27 Flagg Ct,Single Family Home,Todt Hill,Staten Island,1762500.0
+801,4800.0,4.0,5.5,11325.6104,2005.0,31 Arbutus Way,Single Family Home,Huguenot,Staten Island,1625000.0
+802,1946.0,4.0,2.5,3431.0,1975.0,34 Kyle Ct,Condo,Arden Heights,Staten Island,599000.0
+803,2411.0,6.0,5.0,4050.0,2020.0,450 Eltingville Blvd,Single Family Home,Eltingville,Staten Island,999999.0
+804,1300.0,3.0,2.5,3689.0,2000.0,58 Millstone Ct,Condo,New Springville,Staten Island,545000.0
+805,1500.0,5.0,3.0,3375.0,1920.0,25 Castleton Ave,Single Family Home,Tompkinsville,Staten Island,480000.0
+806,2704.0,3.0,2.0,7749.0,1970.0,24 Juni Ct,Single Family Home,New Springville,Staten Island,999000.0
+807,1200.0,3.0,2.5,2500.0,1975.0,26 Ainsworth Ave,Single Family Home,Great Kills,Staten Island,600000.0
+808,2084.0,6.0,4.5,3520.0,2019.0,293 Cromwell Ave,Single Family Home,Dongan Hills,Staten Island,939000.0
+809,1786.0,3.0,2.0,4500.0,1960.0,50 Fairway Ave,Single Family Home,Clifton,Staten Island,525000.0
+810,1096.0,3.0,1.0,2500.0,1925.0,193 Raymond Pl,Single Family Home,Castleton Corners,Staten Island,550000.0
+811,1308.0,3.0,1.5,4000.0,1930.0,109-30 121st St,Multi-Family Home,South Ozone Park,New York,725000.0
+812,1600.0,3.0,2.0,3075.0,1915.0,28 Presley St,Single Family Home,Great Kills,Staten Island,551000.0
+813,950.0,2.0,1.0,950.0,1950.0,216-23 73rd Ave,Condo,New Dorp,Staten Island,290000.0
+814,2160.0,5.0,2.0,2178.0,1915.0,74-46 64th Pl,Multi-Family Home,Glendale,Queens,875000.0
+815,3125.0,4.0,3.0,17424.016,1950.0,414 Arbutus Ave,Single Family Home,Huguenot,Staten Island,995000.0
+816,3770.0,5.0,5.5,11761.2108,1989.0,19 Keppel Ave,Single Family Home,Tottenville,Staten Island,1331000.0
+817,2060.0,3.0,3.5,3000.0,2005.0,124 Crafton Ave,Single Family Home,Westerleigh,Staten Island,545000.0
+818,2862.0,1.0,6.0,5688.0,1974.0,56 Sommer Ave,Multi-Family Home,Bulls Head,Staten Island,870000.0
+819,1140.0,3.0,1.5,2500.0,1965.0,131 Buffalo St,Single Family Home,Bay Terrace,Staten Island,550000.0
+820,1170.0,3.0,2.0,4342.0,1955.0,183 Kell Ave,Single Family Home,Westerleigh,Staten Island,675000.0
+821,1000.0,4.0,2.0,5355.0,1955.0,4 Koch Blvd,Single Family Home,Eltingville,Staten Island,538500.0
+822,1980.0,3.0,2.5,2600.0,1930.0,1423 79th St,Single Family Home,Bensonhurst,Brooklyn,1150000.0
+823,1096.0,3.0,1.5,2500.0,1965.0,192 Eltingville Blvd,Single Family Home,Eltingville,Staten Island,445000.0
+824,1890.0,3.0,1.5,2350.0,1977.0,266 Doane Ave,Single Family Home,Great Kills,Staten Island,550000.0
+825,4131.0,3.0,3.0,4000.0,2021.0,56 Hickory Ave,Single Family Home,New Dorp,Staten Island,1039999.0
+826,1500.0,4.0,1.5,3920.0,1950.0,57-10 262nd St,Single Family Home,Little Neck,Queens,950000.0
+827,1440.0,3.0,2.5,2500.0,1993.0,293 Brighton St,Single Family Home,Tottenville,Staten Island,615000.0
+828,2846.0,4.0,2.5,2300.0,1960.0,60-42 75 St,Single Family Home,Maspeth,New York,1130000.0
+829,1504.0,3.0,2.5,2575.0,1980.0,729 Willowbrook Rd,Single Family Home,Willowbrook,Staten Island,649000.0
+830,1722.0,3.0,2.5,2000.0,1989.0,58 Dalton Ave,Single Family Home,New Dorp,Staten Island,571000.0
+831,1512.0,3.0,2.5,1400.0,2003.0,647 Targee St,Condo,Concord,Staten Island,510000.0
+832,3330.0,5.0,4.5,6220.0,2004.0,34 Carlton Ct,Single Family Home,Huguenot,Staten Island,1250000.0
+833,1568.0,5.0,2.5,2000.0,1920.0,1555 E 37th St,Single Family Home,Marine Park,Brooklyn,780000.0
+834,2051.0,4.0,3.5,6000.0,1970.0,653 Edgegrove Ave,Single Family Home,Huguenot,Staten Island,765000.0
+835,1092.0,3.0,3.0,5771.0,1950.0,166 Maple Pkwy,Single Family Home,Mariners Harbor,Staten Island,520000.0
+836,4800.0,5.0,4.0,10018.809200000002,1984.0,350 Park St,Single Family Home,Richmond Town,Staten Island,1300000.0
+837,2996.0,5.0,4.0,6500.0,1983.0,454 Yetman Ave,Single Family Home,Tottenville,Staten Island,920000.0
+838,1088.0,3.0,2.5,2548.0,1988.0,314 Harold St,Single Family Home,Willowbrook,Staten Island,530000.0
+839,1288.0,3.0,1.5,2000.0,1985.0,73 Cameron Ave,Single Family Home,South Beach,Staten Island,585000.0
+840,1600.0,3.0,2.5,2800.0,1978.0,12 Ludlow St,Single Family Home,Greenridge,Staten Island,610000.0
+841,1800.0,3.0,3.5,2260.0,1993.0,235 Milton Ave,Single Family Home,Oakwood,Staten Island,575000.0
+842,1176.0,3.0,2.0,1968.0,1960.0,69 S Railroad Ave,Single Family Home,Dongan Hills,Staten Island,593000.0
+843,1144.0,3.0,1.0,3840.0,1940.0,20 Livermore Ave,Single Family Home,Westerleigh,Staten Island,519000.0
+844,1130.0,4.0,2.0,2500.0,1910.0,303 Taylor St,Single Family Home,West Brighton,Staten Island,437000.0
+845,1533.0,4.0,2.0,6480.0,1950.0,71 Wadsworth Rd,Single Family Home,Shore Acres,Staten Island,730000.0
+846,1176.0,3.0,2.5,2026.0,2020.0,56 Confederation Pl,Single Family Home,Mariners Harbor,Staten Island,505000.0
+847,2040.0,5.0,3.0,2178.0,1920.0,62-19 60 Dr,Multi-Family Home,Maspeth,New York,780000.0
+848,1105.0,5.0,2.0,3900.0,1950.0,130-31 223rd St,Land,Laurelton,Queens,610000.0
+849,4136.0,4.0,4.5,11761.2108,2004.0,6157 Amboy Rd,Single Family Home,Pleasant Plains,Staten Island,1420000.0
+850,5445.0,6.0,5.0,4000.0,1930.0,1115 E 5th St,Single Family Home,Midwood,Brooklyn,2999500.0
+851,2290.0,4.0,3.5,2571.0,2006.0,47 Perona Ln,Single Family Home,Great Kills,Staten Island,705000.0
+852,978.0,2.0,2.0,978.0,1983.0,87 Gervil St,Condo,Rossville,Staten Island,385000.0
+853,3312.0,4.0,3.5,4500.0,2018.0,139 3rd St,Single Family Home,New Dorp,Staten Island,999000.0
+854,1290.0,4.0,1.0,3920.0,1945.0,162-41 97th St,Single Family Home,Howard Beach,New York,620000.0
+855,1900.0,4.0,3.0,3800.0,1950.0,297 Beach Rd,Single Family Home,Eltingville,Staten Island,800000.0
+856,864.0,3.0,2.0,4000.0,1960.0,284 Montreal Ave,Single Family Home,Oakwood,Staten Island,645000.0
+857,1408.0,3.0,2.5,2600.0,1996.0,11 Jackson Ave,Single Family Home,South Beach,Staten Island,580000.0
+858,1500.0,3.0,2.5,2500.0,2020.0,5 Smith St,Single Family Home,Rosebank,Staten Island,640000.0
+859,1300.0,3.0,1.5,2222.0,1992.0,105 Weed Ave,Single Family Home,New Dorp Beach,Staten Island,610000.0
+860,1720.0,3.0,2.5,1808.0,2019.0,930 Richmond Rd,Condo,Concord,Staten Island,633000.0
+861,1584.0,3.0,1.5,1742.0,1945.0,68-44 Harrow St,Single Family Home,Forest Hills,New York,950000.0
+862,1440.0,3.0,3.5,2464.0,2011.0,91 Crabtree Ave,Single Family Home,Rossville,Staten Island,713000.0
+863,2904.0,5.0,2.5,5100.0,1975.0,172 Sommer Ave,Single Family Home,Bulls Head,Staten Island,870000.0
+864,1413.0,3.0,2.0,3246.0,1960.0,19 Tabb Pl,Single Family Home,Port Richmond,Staten Island,545000.0
+865,2084.0,4.0,2.0,22215.6204,1915.0,361 St George Rd,Single Family Home,Lighthouse Hill,Staten Island,825000.0
+866,1200.0,3.0,1.5,1848.0,2002.0,563 Greeley Ave,Single Family Home,Midland Beach,Staten Island,545000.0
+867,2000.0,3.0,2.5,4000.0,2020.0,472 Wilson Ave,Single Family Home,Eltingville,Staten Island,835000.0
+868,1920.0,5.0,3.0,4000.0,1925.0,2049 W 5th St,Single Family Home,Gravesend,Brooklyn,1350000.0
+869,1820.0,3.0,2.0,5406.0,1965.0,23 Ocean Ter,Single Family Home,Todt Hill,Staten Island,823888.0
+870,3200.0,4.0,3.5,8648.0,1980.0,67 Marvin Rd,Single Family Home,Woodrow,Staten Island,980000.0
+871,2927.0,4.0,3.5,4132.0,2008.0,16 Covington Cir,Single Family Home,Huguenot,Staten Island,1175000.0
+872,1452.0,3.0,2.5,3182.0,1920.0,3 W Raleigh Ave,Single Family Home,West Brighton,Staten Island,690000.0
+873,1648.0,4.0,2.0,3000.0,1915.0,311 Clinton B Fiske Ave,Single Family Home,Westerleigh,Staten Island,680000.0
+874,1036.0,2.0,1.5,760.0,1984.0,34 Greentree Ln,Condo,Bulls Head,Staten Island,430000.0
+875,1600.0,3.0,2.5,2000.0,2000.0,127 Baden Pl,Single Family Home,Midland Beach,Staten Island,562000.0
+876,1216.0,3.0,1.5,2500.0,1972.0,363 Melba St,Single Family Home,Manor Heights,Staten Island,600000.0
+877,2288.0,3.0,2.0,6000.0,1945.0,5 Dent Rd,Single Family Home,Great Kills,Staten Island,625000.0
+878,1600.0,3.0,3.5,2025.0,1992.0,2142 Richmond Rd,Single Family Home,Grant City,Staten Island,580000.0
+879,2000.0,3.0,1.5,2375.0,2010.0,218 Hamilton Ave,Single Family Home,St. George,Staten Island,508000.0
+880,1656.0,3.0,1.5,3825.0,1915.0,216 Deems Ave,Single Family Home,Westerleigh,Staten Island,555000.0
+881,1540.0,3.0,2.0,1274.0,1996.0,118 Kenilworth Ave,Condo,Eltingville,Staten Island,560000.0
+882,1240.0,3.0,2.5,500.0,1996.0,40 Sable Loop,Single Family Home,Great Kills,Staten Island,435000.0
+883,945.0,1.0,1.0,476.0,1986.0,5 Vogel Ln,Condo,Westerleigh,Staten Island,345000.0
+884,1096.0,2.0,1.0,1096.0,1991.0,16 Jupiter Ln,Condo,Graniteville,Staten Island,290000.0
+885,3864.0,3.0,2.5,3720.0,2020.0,157 Marine Way,Single Family Home,New Dorp Beach,Staten Island,849000.0
+886,1555.0,3.0,1.5,1307.0,1987.0,88-09 249 St,Single Family Home,Bellerose,New York,620000.0
+887,1422.0,3.0,2.0,1742.0,1915.0,91-38 88th St,Single Family Home,Woodhaven,New York,605000.0
+888,1132.0,3.0,2.5,3049.0,1935.0,114-19 168th St,Single Family Home,St. Albans,Queens,550000.0
+889,5482.0,6.0,7.5,38332.8352,1999.0,69 Coventry Rd,Single Family Home,Todt Hill,Staten Island,3000000.0
+890,1116.0,3.0,2.0,2833.0,1925.0,24 9th St,Single Family Home,New Dorp,Staten Island,635000.0
+891,1650.0,4.0,2.5,5000.0,1965.0,265 Adelaide Ave,Single Family Home,Oakwood,Staten Island,690000.0
+892,1800.0,3.0,1.5,5700.0,1899.0,51 Simonson Ave,Single Family Home,Elm Park,Staten Island,485000.0
+893,2200.0,3.0,2.5,3036.0,2003.0,117 Ridgewood Ave,Single Family Home,Eltingville,Staten Island,855000.0
+894,1397.0,3.0,2.5,3420.0,2008.0,16 Swinnerton St,Single Family Home,Tottenville,Staten Island,695000.0
+895,13800.0,26.0,15.0,5121.0,1930.0,85 Ann St,Multi-Family Home,Port Richmond,Staten Island,2250000.0
+896,1421.0,4.0,1.5,3750.0,1920.0,20 Wheeler Ave,Single Family Home,Westerleigh,Staten Island,578000.0
+897,1476.0,3.0,1.5,3278.0,1970.0,12 Bass St,Single Family Home,Westerleigh,Staten Island,585000.0
+898,2568.0,5.0,3.5,4200.0,1970.0,50 Bowdoin St,Single Family Home,New Springville,Staten Island,850000.0
+899,1794.0,4.0,3.5,3540.0,1979.0,205 Annadale Rd,Single Family Home,Eltingville,Staten Island,699000.0
+900,1216.0,3.0,2.5,2009.0,1996.0,195 Maryland Ave,Condo,Rosebank,Staten Island,588000.0
+901,2088.0,4.0,3.0,2300.0,1980.0,103 Alexander Ave,Single Family Home,Eltingville,Staten Island,650000.0
+902,1400.0,2.0,1.5,1267.0,1987.0,33 Carlyle Grn,Single Family Home,Arden Heights,Staten Island,440000.0
+903,1152.0,3.0,1.0,5850.0,1955.0,388 Lyndale Ave,Single Family Home,Eltingville,Staten Island,620000.0
+904,1125.0,5.0,2.5,4000.0,1966.0,461 Oakdale St,Single Family Home,Eltingville,Staten Island,690000.0
+905,2102.0,3.0,1.5,5895.0,2000.0,302 Slater Blvd,Single Family Home,Ocean Breeze,Staten Island,516450.0
+906,2440.0,6.0,5.0,6300.0,2019.0,5411 Arthur Kill Rd,Single Family Home,Tottenville,Staten Island,850000.0
+907,3347.0,6.0,5.0,6304.0,2020.0,10 Serenity Way,Single Family Home,New Dorp,Staten Island,825000.0
+908,1701.0,3.0,2.0,3920.0,1945.0,79-26 212 St,Single Family Home,Bayside,New York,915000.0
+909,929.0,1.0,1.5,353.0,1996.0,161 Emily Ln,Condo,Eltingville,Staten Island,295000.0
+910,646.0,2.0,1.5,1742.0,1950.0,107-20 Watson Pl,Single Family Home,Jamaica,New York,424000.0
+911,1480.0,2.0,1.0,2800.0,1925.0,101 Coursen Pl,Single Family Home,Stapleton,Staten Island,389000.0
+912,1514.0,3.0,1.0,3049.0,1925.0,112-12 203rd St,Single Family Home,Hollis,New York,540000.0
+913,2168.0,5.0,3.0,2614.0,1915.0,84-07 104th St,Single Family Home,Richmond Hill,New York,875000.0
+914,2400.0,3.0,4.0,4000.0,2021.0,347 Ross Ave,Single Family Home,New Dorp,Staten Island,1100000.0
+915,1224.0,3.0,2.0,1742.0,1940.0,67-119 Clyde St,Single Family Home,Forest Hills,New York,935000.0
+916,2192.0,3.0,2.5,5000.0,1979.0,83 Augusta Ave,Single Family Home,Eltingville,Staten Island,930000.0
+917,1368.0,3.0,1.5,5535.0,1987.0,185 Rye Ave,Single Family Home,Eltingville,Staten Island,645000.0
+918,1680.0,3.0,2.5,2225.0,2004.0,85 Livingston Ave,Single Family Home,Manor Heights,Staten Island,620000.0
+919,1204.0,3.0,2.5,2170.0,2004.0,20 Calvanico Ln,Condo,Travis - Chelsea,Staten Island,520000.0
+920,1392.0,3.0,1.5,1783.0,1975.0,24 Kyle Ct,Condo,Arden Heights,Staten Island,520000.0
+921,2250.0,3.0,3.0,4000.0,1935.0,80 Grant Pl,Single Family Home,Grant City,Staten Island,610000.0
+922,3286.0,6.0,3.5,6708.0,2020.0,23 Herbert St,Single Family Home,Prince's Bay,Staten Island,1070000.0
+923,1450.0,3.0,1.5,1450.0,1978.0,167 Rolling Hill Grn,Condo,Arden Heights,Staten Island,445000.0
+924,3864.0,14.0,4.0,6350.0,1942.0,89-91 Laurel Ave,Multi-Family Home,Stapleton,Staten Island,885000.0
+925,1152.0,3.0,2.0,3049.0,1925.0,53-64 64th St,Single Family Home,Maspeth,New York,795000.0
+926,1140.0,4.0,2.0,3920.0,1950.0,104-58 214th St,Single Family Home,Queens Village,New York,657000.0
+927,1766.0,4.0,2.0,4662.0,1920.0,416 College Ave,Single Family Home,Westerleigh,Staten Island,678000.0
+928,2490.0,2.0,2.5,3547.0,2007.0,40 Tides Ln,Single Family Home,Charleston,Staten Island,675000.0
+929,1360.0,4.0,2.0,6250.0,1935.0,31 Hillside Ter,Single Family Home,Great Kills,Staten Island,620000.0
+930,1771.0,4.0,2.0,4100.0,1977.0,715 Katan Ave,Single Family Home,Eltingville,Staten Island,700000.0
+931,1686.0,3.0,2.0,4000.0,1925.0,40 Sterling Ave,Single Family Home,New Dorp,Staten Island,650000.0
+932,1408.0,3.0,2.5,2342.0,1978.0,410 Montreal Ave,Single Family Home,Oakwood,Staten Island,628000.0
+933,1870.0,3.0,2.5,2750.0,1970.0,23 Stobe Ave,Single Family Home,Dongan Hills,Staten Island,540333.0
+934,1080.0,3.0,1.5,2070.0,1986.0,7 McCormick Pl,Condo,South Beach,Staten Island,410000.0

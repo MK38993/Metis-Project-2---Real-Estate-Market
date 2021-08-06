@@ -6,7 +6,7 @@
 
 
 
-For this project, I constructed a Ridge Regression model in order to accurately predict New York City housing real-estate prices.
+For this project, I constructed a Linear Regression model in order to accurately predict New York City housing real-estate prices.
 
 Using a basic web-crawler, I scraped 9900 listings from [realtor.com](https://realtor.com"......") and trained my model from the data, which I then packaged into a function in order to predict real-estate prices.
 
@@ -16,7 +16,7 @@ This project presents a series of plots that highlight stations with high foot t
 
 
 ## Data
-I scraped nearly 9900 datapoints from realtor.com. I selected 10 features to model for each datapoint, of which 4 are categorical. Only about 850 datapoints had all 10 features available. Using the Google Maps geocoding API, I was able to fill in missing 'borough' and 'neighborhood' information, which allowed me to 'save' another ~90 datapoints. 
+I scraped 9899 datapoints from [realtor.com](https://realtor.com"......"). I selected 10 features to model for each datapoint, of which 4 are categorical. Only about 850 datapoints had all 10 features available. Using the Google Maps geocoding API, I was able to fill in missing 'borough' and 'neighborhood' information, which allowed me to 'save' another ~90 datapoints. 
 
 
 ## Algorithms

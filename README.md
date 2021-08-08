@@ -8,7 +8,7 @@
 
 For this project, I constructed a Linear Regression model in order to accurately predict New York City housing real-estate prices.
 
-Using a basic web-crawler, I scraped 9900 listings from [realtor.com](https://realtor.com"......") and trained my model from the data, which I then packaged into a function in order to predict real-estate prices.
+Using a basic web-crawler, I scraped 9899 listings from [realtor.com](https://realtor.com"......") and trained my model from the data, which I then packaged into a function in order to predict real-estate prices.
 
 
 ## Design

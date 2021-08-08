@@ -24,7 +24,7 @@ I scraped 9899 datapoints from [realtor.com](https://realtor.com"......"). I sel
 
 2. Using the Google Maps geocoding API to fill in datapoints missing 'borough' and 'neighborhood' features, based on listing address.
 
-3. Running Linear, Ridge, Lasso, and Elastic Net regressions on usable data, selecting the best model (the Ridge model had the highest r<sup>2</sup> value), and using it to predict housing prices.
+3. Running Linear, Ridge, Lasso, and Elastic Net regressions on usable data, selecting the best model (the Ridge model had the highest r<sup>2</sup> value by about 0.01 at alpha=0, but I attributed this to a floating-point error and selected the Linear Regression model for better interpretability), and using it to predict housing prices.
 
 ### Models
 
